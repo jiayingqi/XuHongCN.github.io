@@ -16,11 +16,7 @@ author_profile: true
 {% endfor %}
 
 ---
-layout: archive
-title: "National Patents"
-permalink: /publications/
-author_profile: true
----
+National Patents
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
