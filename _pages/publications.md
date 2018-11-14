@@ -17,6 +17,8 @@ http://ecst.ecsdl.org/content/80/8/395.abstract
 ### 超声波-二氧化钛光催化耦合法降解高效氯氰菊酯. 化学研究, 2012, v.23(03): 45-49.
 祁晓月, **徐泓**, 周兴振. 北京交通大学理学院
 
+http://hxya.chinajournal.net.cn/WKB/WebPublication/paperDigest.aspx?paperID=10f49d02-6d79-49d1-93cf-d1d7a98f9887
+
 ---
 
 # National Patents:
