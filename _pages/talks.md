@@ -1,4 +1,4 @@
-# Talks and presentations
+# Talks, Posters and Presentations
 Quantification of GDL water feature detectability for operando subsecond X-ray tomographic microscopy imaging of PEFCs
  September 03, 2018
 
