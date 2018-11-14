@@ -1,34 +1,21 @@
 ---
 layout: archive
-title: "Academic Papers"
+title: "Academic Papers:"
 permalink: /publications/
 author_profile: true
 
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Fighting the Noise: Towards the Limits of Subsecond X-ray Tomographic Microscopy of PEFC
+*Hong Xu, Minna Bührer, Federica Marone, Thomas J. Schmidt, Felix N Büchi and Jens Eller*
+ECS Transactions. 80(8), 395-402 (2017). doi: 10.1149/08008.0395ecst
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+http://ecst.ecsdl.org/content/80/8/395.abstract
 
 ---
 
 # National Patents:
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ---
 
