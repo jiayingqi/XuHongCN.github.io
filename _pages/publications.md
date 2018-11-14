@@ -11,10 +11,7 @@ author_profile: true
 
 http://ecst.ecsdl.org/content/80/8/395.abstract
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
-[go](http://stackoverflow.com){:target="_blank"}
-
+<a href="http://ecst.ecsdl.org/content/80/8/395.abstract" target="_blank">http://ecst.ecsdl.org/content/80/8/395.abstract</a>
 ---
 
 # National Patents:
