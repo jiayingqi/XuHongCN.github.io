@@ -38,7 +38,7 @@ https://patents.google.com/patent/CN202311136U/en
 # Dissertations:
 
 ### Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. 
-Mr. Xu, Hong. Master Thesis. LMU & TU München. Munich, 2016.
+Mr. **XU, Hong**. Master Thesis. LMU & TU München. Munich, 2016.
 Supervisor: Prof. Dr. rer. nat. Peter Müller-Buschbaum, TUM
 
 ###  Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. 
@@ -50,12 +50,13 @@ Supervisor: Prof. Dr. Hui Zhang, BJTU
 # Technical Reports:
 
 ### Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China.
-Mr. XU, Hong. Training Report. École des Ponts ParisTech. Paris. 2016.
+Mr. **XU, Hong**. Training Report. École des Ponts ParisTech. Paris. 2016.
 
-
+https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf
 
 ### Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. EUROPEAN XFEL.
-Mr. XU, Hong. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
+Mr. **XU, Hong**. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
 
+https://xuhongcn.github.io/files/Internship_Report_XFEL-Hong%20XU.pdf
 
 
