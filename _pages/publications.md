@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Papers"
+title: "Academic Papers:"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ---
-National Patents
+title: "National Patents:"
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
