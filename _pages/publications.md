@@ -15,12 +15,6 @@ http://ecst.ecsdl.org/content/80/8/395.abstract
 
 # National Patents:
 
-### Fruits and vegetables clean device coupling with Ultrasonic and Photocatalytic technology
-*Xingzhen Zhou, **Hong Xu**, Hong Jiang, Xiaoyue QI*. Issued May 9, 2012. CN201120506527.3
-
-https://patents.google.com/patent/CN202311136U/en
-
-
 ### Annular gas-liquid interface jigging magnetic separation device
 *Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan*. Issued Oct 11, 2013. CN201110355807.3
 
@@ -32,9 +26,25 @@ https://patents.google.com/patent/CN102441489A/en
 
 https://patents.google.com/patent/CN102441490B/en
 
+
+### Fruits and vegetables clean device coupling with Ultrasonic and Photocatalytic technology
+*Xingzhen Zhou, **Hong Xu**, Hong Jiang, Xiaoyue QI*. Issued May 9, 2012. CN201120506527.3
+
+https://patents.google.com/patent/CN202311136U/en
+
+
 ---
 
 # Dissertations:
+
+###  Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. 
+Mr. XU, Hong. 
+Bachelor Thesis. Beijing Jiaotong University. Beijing, 2013.
+
+### Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. 
+Mr. Xu, Hong. 
+Master Thesis. Ludwig Maximilians Universität München &Techne MÜNCHEN, 2016.
+
 
 ---
 
