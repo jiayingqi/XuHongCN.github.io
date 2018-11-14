@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/XuHongCN/CV/blob/master/resume.pdf" target="_blank">Xu_Hong_CV</a>
+Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.pdf" target="_blank">Xu_Hong_CV</a>
 <a href="https://github.com/XuHongCN/CV/blob/master/resume_cn.pdf" target="_blank">徐泓_简历</a>
 
 # Education
