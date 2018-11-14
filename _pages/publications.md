@@ -37,16 +37,25 @@ https://patents.google.com/patent/CN202311136U/en
 
 # Dissertations:
 
-###  Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. 
-Mr. XU, Hong. 
-Bachelor Thesis. Beijing Jiaotong University. Beijing, 2013.
-
 ### Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. 
-Mr. Xu, Hong. 
-Master Thesis. Ludwig Maximilians Universität München &Techne MÜNCHEN, 2016.
+Mr. Xu, Hong. Master Thesis. LMU & TU München. Munich, 2016.
+Supervisor: Prof. Dr. rer. nat. Peter Müller-Buschbaum, TUM
 
+###  Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. 
+Mr. XU, Hong. Bachelor Thesis. Beijing Jiaotong University (BJTU). Beijing, 2013.
+Supervisor: Prof. Dr. Hui Zhang, BJTU
 
 ---
 
-# Reports:
+# Technical Reports:
+
+### Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China.
+Mr. XU, Hong. Training Report. École des Ponts ParisTech. Paris. 2016.
+
+
+
+### Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. EUROPEAN XFEL.
+Mr. XU, Hong. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
+
+
 
