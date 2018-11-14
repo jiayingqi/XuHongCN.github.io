@@ -41,9 +41,13 @@ https://patents.google.com/patent/CN202311136U/en
 Mr. **XU, Hong**. Master Thesis. LMU & TU München. Munich, 2016.
 Supervisor: Prof. Dr. rer. nat. Peter Müller-Buschbaum, TUM
 
+https://xuhongcn.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf
+
 ###  Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. 
 Mr. XU, Hong. Bachelor Thesis. Beijing Jiaotong University (BJTU). Beijing, 2013.
 Supervisor: Prof. Dr. Hui Zhang, BJTU
+
+https://xuhongcn.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf
 
 ---
 
@@ -54,12 +58,8 @@ Mr. **XU, Hong**. Training Report. École des Ponts ParisTech. Paris. 2016.
 
 https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf
 
-#### <a href="https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf" target="_blank">https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf</a>
-
-
 ### Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. EUROPEAN XFEL.
 Mr. **XU, Hong**. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
 
 https://xuhongcn.github.io/files/Internship_Report_XFEL-Hong%20XU.pdf
-
 
