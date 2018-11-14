@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate, X-ray Imaging/Fuel Cell, ETH Zürich, Switzerland. 2016.12 - 2020.06 (expected)
+* M.Sc in Materials Science, LMU/TU München, Germany. 2015.10 - 2016.10
+* Maîtrise in Physics, Uni. Rennes I, France. 2014.09 - 2015.06
+* B.Sc in Materials Chemistry, Beijing Jiaotong University, China. 2009.09 - 2013.06
 
 Work experience
 ======
