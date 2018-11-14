@@ -12,7 +12,7 @@ https://www.psi.ch/lec/LECFilesEN/modval2018.pdf
 
 ### Quantification of Feature Detectability for Sub-second X-ray Tomographic Microscopy of PEFC
 
-Xu, Hong (PSI). Invited talk, th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017
+Xu, Hong (PSI). Invited talk, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017
 
 ### Signal to Noise Ratio Evaluation for X-ray Computed Tomographic Imaging of Water in PEFCs
 
