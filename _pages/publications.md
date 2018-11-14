@@ -16,7 +16,6 @@ author_profile: true
 {% endfor %}
 
 ---
-layout: archive
 title: "National Patents"
 permalink: /publications/
 author_profile: true
