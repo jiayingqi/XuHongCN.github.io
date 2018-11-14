@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Academic Papers:"
-title: "Academic Patents:"
 permalink: /publications/
 author_profile: true
 ---
