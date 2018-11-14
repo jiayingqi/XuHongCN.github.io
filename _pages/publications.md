@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Academic Papers:"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+Academic Paper:
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,9 +18,8 @@ author_profile: true
 {% endfor %}
 
 ---
-layout: archive
-title: "National Patents:"
-permalink: /publications/
+
+National Patents:
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -29,3 +30,6 @@ permalink: /publications/
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+Dissertations:
