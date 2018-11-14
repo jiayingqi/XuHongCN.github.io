@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
+
+layout: archive
 title: "National Patents"
 permalink: /publications/
 author_profile: true
