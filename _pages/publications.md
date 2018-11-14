@@ -11,7 +11,6 @@ author_profile: true
 
 http://ecst.ecsdl.org/content/80/8/395.abstract
 
-<a href="http://ecst.ecsdl.org/content/80/8/395.abstract" target="_blank">http://ecst.ecsdl.org/content/80/8/395.abstract</a>
 ---
 
 # National Patents:
@@ -54,6 +53,9 @@ Supervisor: Prof. Dr. Hui Zhang, BJTU
 Mr. **XU, Hong**. Training Report. École des Ponts ParisTech. Paris. 2016.
 
 https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf
+
+#### <a href="https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf" target="_blank">https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf</a>
+
 
 ### Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. EUROPEAN XFEL.
 Mr. **XU, Hong**. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
