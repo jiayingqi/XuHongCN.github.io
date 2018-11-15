@@ -62,7 +62,7 @@ Supervisor: Prof. Dr. Hui Zhang, BJTU
 ### [1] Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China.
 Mr. **Hong Xu**. Training Report. École des Ponts ParisTech. Paris. 2016.
 
-<a href="https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf" target="_blank">https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf</a>
+<a href="https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf"target="_blank">https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf</a>
 
 ### [2] Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. EUROPEAN XFEL.
 Mr. **Hong Xu**. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
