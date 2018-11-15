@@ -28,5 +28,4 @@ Hi there! My name is Xu, Hong (in Chinese: 徐泓) and Currently I'm a Ph.D cand
 
 Grown up in the Middle east of China in a small town called Zongyang, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachlor in Beijing, the capital, I started my journey to the west at 20 years old (2014). Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. Thanks to the great EU mobility, I continued the second year of master at LMU/TUM in Munich and commited my master disstertation at TUM Physics department. Life was never lack of suprises, I got the chance interviewed by Prof from ETH and luckly got the PhD position at PSI, where my three year of future begins. 
 
-
-  
+Je pense, donc jexiste. ——Descartes [FR]   
