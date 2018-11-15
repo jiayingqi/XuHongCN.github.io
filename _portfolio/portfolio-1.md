@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Bachelor Graduation Ceremony"
 collection: portfolio
 ---
 
