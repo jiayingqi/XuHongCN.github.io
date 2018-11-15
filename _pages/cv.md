@@ -48,7 +48,7 @@ Skills.
   * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python.
 
 ## Publications
-======
+
 * **Academic Papers**
   * **H. Xu**, M. Bührer, F. Marone, T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
   * 张辉, **徐泓**, 万金秀, 颜鲁婷, 戴春爱. 真空与低温[J], 2012, 18(3): 134−141.
@@ -64,7 +64,7 @@ Skills.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
   
 ## Talks
----------
+
 * **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
   * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018.
@@ -72,23 +72,23 @@ Skills.
   * Xu, Hong (TUM). Poster, 80th Annual Meeting of DPG and DPG Spring Meeting of the Condensed Matter Section (SKM), Regensburg, Germany. March 3, 2016
 
 * **Conferences/Talks**
-======
+
   * Xu, Hong (PSI). Invited talk, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
 
 ## Summer School
-----------------------
+
 * Xu, Hong (PSI). EXCITE Summer School on Biomedical Imaging. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
 * Xu, Hong (U. Rennes I). MaMaSELF Summer School on X-ray and Neutron Scattering. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
 ## Teaching
---------------
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Honors & Awards
-------------------------
+
 * **International**
   * 2018 Poster Prize Award, by ModVal Conference Committe, Aarau, Switzerland.
   * 2015 Erasmus+ Scholarship, by European Education, Audiovisual and Culture Executive Agency, Rennes, France.
@@ -102,7 +102,7 @@ Skills.
   * 2010 Advanced Individual of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
 
 ## Language & Skills
--------------------------
+
 * **Language proficiency**
   * **English (fluent, C1), Chinese (native, C2)**, German (basic, A2), French (basic, A2). EU Standard.
 
