@@ -13,14 +13,14 @@ Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.
  | <a href="https://github.com/XuHongCN/CV/blob/master/resume_cn.pdf" target="_blank">徐泓_简历</a>
 
 ## Education
-======
+---------------
 * Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected)
 * M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10
 * Maîtrise in Physics, **Uni. Rennes I**, France. 2014.09 - 2015.06
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
 
 ## Work experience
-======
+-----------------------
 * **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present
   * Doctoral Researcher in Fuel Cell Systems and Diagnostics Group, Energy and Environmental Department, PSI.
   * Project: In-operando Sub-second Computational Tomographic (CT) Imaging of Polymer Electrolyte Fuel Cells (PEFC).
@@ -64,7 +64,7 @@ Skills.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
   
 ## Talks
-======
+---------
 * **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
   * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018.
@@ -77,18 +77,18 @@ Skills.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
 
 ## Summer School
-======
+----------------------
 * Xu, Hong (PSI). EXCITE Summer School on Biomedical Imaging. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
 * Xu, Hong (U. Rennes I). MaMaSELF Summer School on X-ray and Neutron Scattering. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
 ## Teaching
-======
+--------------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Honors & Awards
-======
+------------------------
 * **International**
   * 2018 Poster Prize Award, by ModVal Conference Committe, Aarau, Switzerland.
   * 2015 Erasmus+ Scholarship, by European Education, Audiovisual and Culture Executive Agency, Rennes, France.
@@ -102,7 +102,7 @@ Skills.
   * 2010 Advanced Individual of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
 
 ## Language & Skills
-======
+-------------------------
 * **Language proficiency**
   * **English (fluent, C1), Chinese (native, C2)**, German (basic, A2), French (basic, A2). EU Standard.
 
