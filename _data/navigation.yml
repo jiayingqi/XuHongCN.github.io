@@ -14,9 +14,14 @@ main:
   
   - title: "TRAVELS"
     url: /portfolio/
-
+    
+  - title: "GALERIE"
+    url: /galerie/    
+    
   - title: "CONTACT"
     url: /aboutme/
+    
+
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
