@@ -18,7 +18,7 @@ main:
   - title: "GALERIE"
     url: /galerie/    
   
-    - title: "POÈME"
+  - title: "POÈME"
     url: /poeme/    
   
   - title: "CONTACT"
