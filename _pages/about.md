@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "歡迎 Welcome :-) "
+title: "歡 迎 Welcome :-) "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
