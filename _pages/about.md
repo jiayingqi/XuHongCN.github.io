@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Thisstaeiou.github.io).
 
-A data-driven personal website
-======
-Like many
