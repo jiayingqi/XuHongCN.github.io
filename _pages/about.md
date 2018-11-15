@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Where to Start"
+title: "Where the future begins"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
