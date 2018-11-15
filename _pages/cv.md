@@ -13,14 +13,14 @@ Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.
  | <a href="https://github.com/XuHongCN/CV/blob/master/resume_cn.pdf" target="_blank">徐泓_简历</a>
 
 ## Education
----------------
+
 * Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected)
 * M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10
 * Maîtrise in Physics, **Uni. Rennes I**, France. 2014.09 - 2015.06
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
 
 ## Work experience
------------------------
+
 * **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present
   * Doctoral Researcher in Fuel Cell Systems and Diagnostics Group, Energy and Environmental Department, PSI.
   * Project: In-operando Sub-second Computational Tomographic (CT) Imaging of Polymer Electrolyte Fuel Cells (PEFC).
