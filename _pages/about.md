@@ -24,7 +24,7 @@ redirect_from:
 
 >Ich heiße Hong und ich habe keinen Hunger. 
 
-> --- My favorate Quote in German
+> ---- Beloved quote in German
 
 Hi there! My name is Xu, Hong (in Chinese: 徐泓) and I'm a Ph.D candidate at ETH Zürich in Switzerland. Most of the time I spent with my lovely synchrotron facilities and took the Scooter circling around Swiss Light Source. Well, that is actually not true....
 
