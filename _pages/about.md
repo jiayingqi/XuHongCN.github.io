@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129282360-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129282360-1');
+</script>
 
 {% include base_path %}
  Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.pdf" target="_blank"><b>Xu_Hong_CV</b></a>
