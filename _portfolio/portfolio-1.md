@@ -3,4 +3,4 @@ title: "Galleries"
 collection: portfolio
 ---
 
-<img src="/images/portfolio1.JPG" width="1300">
+<img src="/images/portfolio1.JPG" width="1000">
