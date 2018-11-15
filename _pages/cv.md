@@ -63,7 +63,7 @@ Skills.
   * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
   
-## Talks
+## Presentations & Talks
 
 * **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
@@ -76,12 +76,12 @@ Skills.
   * Xu, Hong (PSI). Invited talk, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
 
-## Summer School
+## Summer Schools
 
 * Xu, Hong (PSI). **EXCITE Summer School on Biomedical Imaging**. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
 * Xu, Hong (U. Rennes I). **MaMaSELF Summer School on X-ray and Neutron Scattering**. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
-## Teaching
+## Teaching Events
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -101,7 +101,7 @@ Skills.
   * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
   * 2010 **Advanced Individual** of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
 
-## Language & Skills
+## Languages & Skills
 
 * **Language proficiency**
   * **English (fluent, C1), Chinese (native, C2)**, German (basic, A2), French (basic, A2). EU Standard.
