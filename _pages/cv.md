@@ -72,14 +72,14 @@ Skills.
   * Xu, Hong (TUM). Poster, 80th Annual Meeting of DPG and DPG Spring Meeting of the Condensed Matter Section (SKM), Regensburg, Germany. March 3, 2016
 
 * **Conferences/Talks**
+======
   * Xu, Hong (PSI). Invited talk, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
 
 ## Summer School
 ======
-* **Summer School**
-  * Xu, Hong (PSI). EXCITE Summer School on Biomedical Imaging. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
-  * Xu, Hong (U. Rennes I). MaMaSELF Summer School on X-ray and Neutron Scattering. Organized by Université de Montpellier. 5 - 17 Sept 2015.
+* Xu, Hong (PSI). EXCITE Summer School on Biomedical Imaging. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
+* Xu, Hong (U. Rennes I). MaMaSELF Summer School on X-ray and Neutron Scattering. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
 ## Teaching
 ======
