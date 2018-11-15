@@ -78,8 +78,8 @@ Skills.
 
 ## Summer School
 
-* Xu, Hong (PSI). EXCITE Summer School on Biomedical Imaging. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
-* Xu, Hong (U. Rennes I). MaMaSELF Summer School on X-ray and Neutron Scattering. Organized by Université de Montpellier. 5 - 17 Sept 2015.
+* Xu, Hong (PSI). **EXCITE Summer School on Biomedical Imaging**. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
+* Xu, Hong (U. Rennes I). **MaMaSELF Summer School on X-ray and Neutron Scattering**. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
 ## Teaching
 
@@ -95,7 +95,7 @@ Skills.
   * 2012 **Finalist** in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC).
 
 * **Domestic**
-  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of P. R. China, Beijing, China.
+  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of China, Beijing, China.
   * 2012 **Innovation Scholarship**, by Beijing Jiaotong Univeristy Beijing, China.
   * 2010 **Learning Scholarship** (for 3 years), by Beijing Jiaotong Univeristy, Beijing, China.
   * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
