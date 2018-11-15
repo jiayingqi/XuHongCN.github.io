@@ -12,6 +12,12 @@ redirect_from:
 Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.pdf" target="_blank"><b>Xu_Hong_CV</b></a>
  | <a href="https://github.com/XuHongCN/CV/blob/master/resume_cn.pdf" target="_blank"><b>徐泓_简历</b></a>
 
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 ## Education
 
 * Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected)
