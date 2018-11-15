@@ -14,8 +14,9 @@ redirect_from:
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true}, 'google_translate_element');
 }
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.pdf" target="_blank"><b>Xu_Hong_CV</b></a>
+  Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.pdf" target="_blank"><b>Xu_Hong_CV</b></a>
  | <a href="https://github.com/XuHongCN/CV/blob/master/resume_cn.pdf" target="_blank"><b>徐泓_简历</b></a>
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
 ## Education
 
