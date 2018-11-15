@@ -29,7 +29,7 @@ Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.
 * **Toyota Motor Europe (TME)**, Belgium. 2017.05 - 2017.07
   * Research Collaborator in XTM Imaging.
   
-* Technical University of Munich (TUM), Germany. 2015.10 - 2016.09
+* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09
   * Research Assistant in Polymer Physics at Chair of Experimental Physics, TUM.
   * Worked on"Nanostructured Cobalt Oxides / P(S-b-NIPAM) Composites for Sensor Applications". 
   * Characterized the morphology, structure and magnetic properties of structuremetal polymer composites using AFM, TEM, XPS, GISAXS, SAXS and SQUID techniques.
