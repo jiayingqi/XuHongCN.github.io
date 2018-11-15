@@ -49,35 +49,35 @@ Skills.
 
 ## Publications
 ======
-* Academic Papers
+* **Academic Papers**
   * **H. Xu**, M. Bührer, F. Marone, T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
   * 张辉, **徐泓**, 万金秀, 颜鲁婷, 戴春爱. 真空与低温[J], 2012, 18(3): 134−141.
   * 祁晓月, **徐泓**, 周兴振. 化学研究[J], 2012, v.23(03): 45-49.
   
-* National Patents
+* **National Patents**
   * Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
   * Hui Zhang, **Hong Xu**, Mingfu, Luting Yan. Issued on Nov 1, 2013. CN201110355808.8
   * Xingzhen Zhou, **Hong Xu**, Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3
   
-* Dissertation
-  * Master Thesis: Mr. XU, Hong. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. LMU&TU MÜNCHEN, 2016.
-  * Bachelor Thesis: Mr. XU, Hong. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. BJTU. Beijing, 2013.
+* **Dissertation**
+  * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
+  * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
   
 ## Talks
 ======
-* Conferences/Poster
+* **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
   * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018.
   * Xu, Hong (PSI). Poster, 14th Symposium on Modeling and Experimental Validation, Karlsruhe, Germany. March 2, 2017.
   * Xu, Hong (TUM). Poster, 80th Annual Meeting of DPG and DPG Spring Meeting of the Condensed Matter Section (SKM), Regensburg, Germany. March 3, 2016
 
-* Conferences/Talks
+* **Conferences/Talks**
   * Xu, Hong (PSI). Invited talk, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
 
 ## Summer School
 ======
-* Summer School
+* **Summer School**
   * Xu, Hong (PSI). EXCITE Summer School on Biomedical Imaging. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
   * Xu, Hong (U. Rennes I). MaMaSELF Summer School on X-ray and Neutron Scattering. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
@@ -89,12 +89,12 @@ Skills.
 
 ## Honors & Awards
 ======
-* International
+* **International**
   * 2018 Poster Prize Award, by ModVal Conference Committe, Aarau, Switzerland.
   * 2015 Erasmus+ Scholarship, by European Education, Audiovisual and Culture Executive Agency, Rennes, France.
   * 2012 Finalist in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC).
 
-* Domestic
+* **Domestic**
   * 2012 Bronze in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of P. R. China, Beijing, China.
   * 2012 Innovation Scholarship, by Beijing Jiaotong Univeristy Beijing, China.
   * 2010 Learning Scholarship (for 3 years), by Beijing Jiaotong Univeristy, Beijing, China.
@@ -103,13 +103,13 @@ Skills.
 
 ## Language & Skills
 ======
-* Language proficiency
-  * English (fluent, C1), Chinese (native, C2), German (basic, A2), French (basic, A2). EU Standard.
+* **Language proficiency**
+  * **English (fluent, C1), Chinese (native, C2)**, German (basic, A2), French (basic, A2). EU Standard.
 
-* CS skills
-  * Python, Matlab, Macro, Adobe Series, AutoCAD, Origin, SQL
+* **CS skills**
+  * **Python, Matlab, Macro**, Adobe Series, AutoCAD, Origin, SQL
 
-* Hobbies
+* **Hobbies**
   * Photography, Jogging
   
   
