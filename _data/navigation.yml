@@ -16,10 +16,10 @@ main:
     url: /portfolio/
     
   - title: "GALERIE"
-    url: /galerie/    
+    url: /galerie.md/    
   
     - title: "POÈME"
-    url: /poeme/    
+    url: /poeme.md/    
   
   - title: "CONTACT"
     url: /aboutme/
