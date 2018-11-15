@@ -1,6 +1,10 @@
 
 ## 詩酒趁年華。
 
+## Que je decris dans mes poèmes.
+
+<br/>
+
 >緣起何時过去了再不来
 
 >平行線在異度空間延綿
