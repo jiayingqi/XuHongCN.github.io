@@ -6,56 +6,34 @@ title: "且將新火試新茶，詩酒趁年華。"
 
 <br/>
 
->緣起何時过去了再不来
+Translation: 畫 Paint
 
->平行線在異度空間延綿
+為寂寞的夜空畫上一個月亮 | Paint a moon upon the lonely night sky
+把我畫在那月亮下面歌唱 | Then paint me singing right under
+為冷清的房子畫上一扇大窗 | Paint a large window in this desolate house
+再畫上一張床 | Then paint a bed
+畫一個姑娘陪著我 | Paint a girl right by my side 
+再畫個花邊的被窩 | Then paint a bed sheet with flower patterns on the edge
+畫上爐灶與柴火 | Paint an oven and fire woods
+我們一起生來一起活 | Let us live a life
 
->那看似满不在乎的转身
+畫一群鳥兒陪著我 | Paint a dozen of birds surrounding me
+再畫上綠林和青坡 | Then paint forests and grasslands
+畫上自由與祥和 | Paint freedom and peace
+雨點在稻草上飄落 | Rain drops drifting down on the wheat field
 
->難逃命運的預言是緣滅
+畫上有你能用手觸到的彩虹 |Paint a rainbow within your hand's reach
+畫中有我決定不滅的星空 | Paint an unextinguished starry sky of my will
+畫上彎曲無際平坦的小路 | Paint a winding, endless yet flat country road
+盡頭的人家夢已入 | At the end of which someone falling in dreams
+畫上母親安詳的姿勢 | Paint mom's peaceful posture
+還有橡皮能擦去的爭執 | And those erasable arguments
+畫上四季不愁的糧食 | Paint abundant food supply in all seasons
+悠閒的人從沒心事 | A man living in leisure worries about nothing
 
-<br/>
+我沒有擦去爭吵的橡皮 | I don't possess erasors for the arguments of the past
+只有一隻畫著孤獨的筆 | Only a pen painting loneliness
+那夜空的月也不在亮 | The moon in the night sky no longer shines
+只有個憂鬱的孩子在唱 | Only a boy singing blue
 
->曾經遇上幾多風雨飄搖
-
->自在夢裡無言放眼塵黯
-
->隱約不變的是瞬息萬變
-
->哪個看透我夢想是平淡 
-
-<br/>
-
->那造物恩寵的孤獨孩子
-
->駛向想像中的遙遠星航
-
->沉醉于他的世界他的夢
-
->可否抽空想這張舊模樣
-
-<br/>
-
->夕陽搖搖晃晃灑在臉頰
-
->心低到塵埃里舒開燧夢
-
->要說什麽才是最珍貴的
-
->也許是瞬息凝固的永恆
-
-<br/>
-
->All the leaves are brown
-
->And the sky is gray
-
->California dreamin'
-
->On such a winter's day
-
-<br/>
-
->Memory for beloved one
-
->2013.3.30
+為寂寞的夜空畫上一個月亮 | Paint a moon upon the lonely night sky﻿
