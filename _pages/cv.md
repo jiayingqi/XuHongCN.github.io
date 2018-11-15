@@ -39,7 +39,7 @@ Download CV in pdf:  <a href="https://github.com/XuHongCN/CV/blob/master/resume.
   * Failure Analysis of thermal and electrical stressed Infineon chips with temperature from -40 to 125 Celsius degrees and time from 0 to 10,000 hours.
   * Statistically analysed the electronic behaviours of stressed Infineon chips for optimization, then summarized and reported them to supervisor.
 
-* **École Des Ponts ParisTech**, France. 2015.08 - 2015.09
+* **École des Ponts ParisTech**, France. 2015.08 - 2015.09
   * Trained on the cyanobacteria modelling system developed by Lab of Water, Environment and Urban Systems (LEESU), ENPC and Tianjin Haihe River Conservancy Commission (HWCC) and aimed to apply it into controlling system of lakes and rivers in China.
   * Calibrated parameters in the specific models by using local meteorological data and predicted the cyanobacterial blooms for Yuqiao reservoir in Tianjin, China.
 Skills.
