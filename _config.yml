@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "徐      泓"
+title                    : "徐  泓"
 title_separator          : "-"
 name                     : &name "Xu, Hong"
 description              : &description "Ph.D Candidate @ ETH Zürich"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D Candidate in X-ray Imaging/Fuel Cell @ ETH Zürich"
   location         : "Zürich, Switzerland"
   employer         : "Paul Scherrer Institut (PSI)"
-  googlescholar    : " "
+  googlescholar    :
   email            : "hong.xu@live.cn"
   uri              :
   bitbucket        :
@@ -99,19 +99,20 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
-  orcid            : " "
+  linkedin         :  "https://www.linkedin.com/in/xuhong/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : " "
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  wechat        : "tshine1993"
 
 
 # Reading Files
