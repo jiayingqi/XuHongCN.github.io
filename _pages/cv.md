@@ -90,16 +90,16 @@ Skills.
 ## Honors & Awards
 
 * **International**
-  * 2018 Poster Prize Award, by ModVal Conference Committe, Aarau, Switzerland.
-  * 2015 Erasmus+ Scholarship, by European Education, Audiovisual and Culture Executive Agency, Rennes, France.
-  * 2012 Finalist in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC).
+  * 2018 **Poster Prize Award**, by ModVal Conference Committe, Aarau, Switzerland.
+  * 2015 **Erasmus+ Scholarship**, by European Education, Audiovisual and Culture Executive Agency, Rennes, France.
+  * 2012 **Finalist** in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC).
 
 * **Domestic**
-  * 2012 Bronze in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of P. R. China, Beijing, China.
-  * 2012 Innovation Scholarship, by Beijing Jiaotong Univeristy Beijing, China.
-  * 2010 Learning Scholarship (for 3 years), by Beijing Jiaotong Univeristy, Beijing, China.
-  * 2010 Excellent Member of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
-  * 2010 Advanced Individual of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
+  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of P. R. China, Beijing, China.
+  * 2012 **Innovation Scholarship**, by Beijing Jiaotong Univeristy Beijing, China.
+  * 2010 **Learning Scholarship** (for 3 years), by Beijing Jiaotong Univeristy, Beijing, China.
+  * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
+  * 2010 **Advanced Individual** of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
 
 ## Language & Skills
 
