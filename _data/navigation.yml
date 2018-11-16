@@ -1,27 +1,27 @@
 # main links links
 main:
-  - title: "RESEARCH/科研"
+  - title: "RESEARCH/研"
     url: /publications/
 
-  - title: "TALKS/演講"
+  - title: "TALKS/講"
     url: /talks/    
 
-  - title: "TEACHING/教學"
+  - title: "TEACHING/教"
     url: /teaching/    
 
-  - title: "CV/履歷"
+  - title: "CV/歷"
     url: /cv/    
   
-  - title: "TRAVELS/旅行"
+  - title: "TRAVELS/旅"
     url: /portfolio/
     
-  - title: "LA GALERIE/相册"
+  - title: "LA GALERIE/册"
     url: /galerie/    
   
-  - title: "POÈME/詩歌"
+  - title: "POÈME/詩"
     url: /poeme/    
   
-  - title: "CONTACT/聯絡"
+  - title: "CONTACT/聯"
     url: /aboutme/
     
 
