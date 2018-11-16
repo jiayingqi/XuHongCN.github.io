@@ -1,16 +1,16 @@
 ---
-title: "Hey! Find me here !"
+title: "Hej! Find me here !"
 ---
 
 ### Address
 ---
-Paul Scherrer Institut (PSI)
+<p>Paul Scherrer Institut (PSI)</p>
 
-OVGA/005
+<p>OVGA/005</p>
 
-5232 Villigen PSI
+<p>5232 Villigen PSI</p>
 
-Switzerland
+<p>Switzerland</p>
 
 ### Phone
 ---
@@ -19,6 +19,10 @@ Switzerland
 ### E-mail
 ---
 hong (dot) xu (at) live (dot) cn 
+
+### Wechat
+---
+tshine(one nine nine three) 
 
 ### Quote
 ---
