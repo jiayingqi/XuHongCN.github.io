@@ -7,12 +7,12 @@ author_profile: true
 ---
 
 ### [1] Fighting the Noise: Towards the Limits of Subsecond X-ray Tomographic Microscopy of PEFC
-***Hong Xu**, Minna Bührer, Federica Marone, Thomas J. Schmidt, Felix N Büchi and Jens Eller*. ECS Trans. 80(8), 395-402 (2017). doi: 10.1149/08008.0395ecst
+***Hong Xu**, Minna Bührer, Federica Marone, Prof. Thomas J. Schmidt, Felix N Büchi and Jens Eller*. ECS Trans. 80(8), 395-402 (2017). doi: 10.1149/08008.0395ecst
 
 <a href="http://ecst.ecsdl.org/content/80/8/395.abstract" target="_blank">http://ecst.ecsdl.org/content/80/8/395.abstract</a>
 
 ### [2] 新型多孔氧化物球形粉末的雾化反应法制备.真空与低温，2012, 18(3): 134−141.
-张辉，**徐泓**，万金秀，颜鲁婷，戴春爱. 北京交通大学理学院
+Prof. 张辉，**徐泓**，万金秀，颜鲁婷，戴春爱. 北京交通大学理学院
 
 ### [3] 超声波-二氧化钛光催化耦合法降解高效氯氰菊酯. 化学研究, 2012, v.23(03): 45-49.
 祁晓月, **徐泓**, 周兴振. 北京交通大学理学院
@@ -24,18 +24,18 @@ author_profile: true
 # National Patents:
 
 ### [1] Annular gas-liquid interface jigging magnetic separation device
-*Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan*. Issued Oct 11, 2013. CN201110355807.3
+*Prof. Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan*. Issued Oct 11, 2013. CN201110355807.3
 
 <a href="https://patents.google.com/patent/CN102441489A/en" target="_blank">https://patents.google.com/patent/CN102441489A/en</a>
 
 ### [2] Gas-liquid interface jigging magnetic separation controllable annular device capable of continuously operating
-*Hui Zhang, **Hong Xu**, Mingfu, Luting Yan*. Issued Nov 1, 2013. CN201110355808.8
+*Prof. Hui Zhang, **Hong Xu**, Mingfu, Luting Yan*. Issued Nov 1, 2013. CN201110355808.8
 
 <a href="https://patents.google.com/patent/CN102441490B/en" target="_blank">https://patents.google.com/patent/CN102441490B/en</a>
 
 
 ### [3] Fruits and vegetables clean device coupling with Ultrasonic and Photocatalytic technology
-*Xingzhen Zhou, **Hong Xu**, Hong Jiang, Xiaoyue QI*. Issued May 9, 2012. CN201120506527.3
+*Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue QI*. Issued May 9, 2012. CN201120506527.3
 
 <a href="https://patents.google.com/patent/CN202311136U/en" target="_blank">https://patents.google.com/patent/CN202311136U/en</a>
 
