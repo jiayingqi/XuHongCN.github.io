@@ -57,14 +57,14 @@ Skills.
 ## Publications
 
 * **Academic Papers**
-  * **H. Xu**, M. Bührer, F. Marone, T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
-  * 张辉, **徐泓**, 万金秀, 颜鲁婷, 戴春爱. 真空与低温[J], 2012, 18(3): 134−141.
+  * **H. Xu**, M. Bührer, F. Marone, Prof. T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
+  * Prof. 张辉, **徐泓**, 万金秀, 颜鲁婷, 戴春爱. 真空与低温[J], 2012, 18(3): 134−141.
   * 祁晓月, **徐泓**, 周兴振. 化学研究[J], 2012, v.23(03): 45-49.
   
 * **National Patents**
-  * Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
-  * Hui Zhang, **Hong Xu**, Mingfu, Luting Yan. Issued on Nov 1, 2013. CN201110355808.8
-  * Xingzhen Zhou, **Hong Xu**, Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3
+  * Prof. Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
+  * Prof. Hui Zhang, **Hong Xu**, Mingfu, Luting Yan. Issued on Nov 1, 2013. CN201110355808.8
+  * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3
   
 * **Dissertation**
   * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
