@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "歷/CV"
+    url: /cv/    
+
   - title: "研/RESEARCH"
     url: /publications/
 
@@ -8,9 +11,6 @@ main:
 
   - title: "教/TEACHING"
     url: /teaching/    
-
-  - title: "歷/CV"
-    url: /cv/    
   
   - title: "旅/TRAVELS"
     url: /portfolio/
