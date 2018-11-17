@@ -4,9 +4,9 @@ title: "且將新火試新茶，詩酒趁年華。"
 ### La vie ressemble à ce que j'ai décrit dans mes poèmes.
 <br/> 
 <br/> 
+
 畫 Paint - by Zhao Lei
-<br/> 
-<br/> 
+
 
 |為寂寞的夜空畫上一個月亮 |Paint a moon upon the lonely night sky |
 |把我畫在那月亮下面歌唱 |Then paint me singing right underneath |
