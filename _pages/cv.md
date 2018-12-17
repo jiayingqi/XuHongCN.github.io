@@ -24,7 +24,6 @@ function googleTranslateElementInit() {
 ## Education
 
 * Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected)
-* M.A in Business and Finance (Minor, CH-Mobility), **Universität Zürich**, Switzerland. 2018.09 - 2020.06 (expected)
 * M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10
 * Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
