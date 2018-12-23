@@ -39,5 +39,4 @@ function googleTranslateElementInit() {
 
 ### >Hello, World!
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=31-oTbxba9tgCZlE4jtgH4WP8bNi_2y2Qgo5dZNFtRk&cl=ffffff&w=a"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=c9c9c9&w=300&t=tt&d=31 oTbxba9tgCZlE4jtgH4WP8bNi_2y2Qgo5dZNFtRk&co=ffffff&cmo=a8a3a3&cmn=f0bd81&ct=4a4343'></script>
