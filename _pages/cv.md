@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV in pdf:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" target="_blank" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: 'Hong_XU_CV.pdf', eventValue: 1});"<b>Hong_XU_CV.pdf</b></a>
+Download CV in pdf:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: 'Hong_XU_CV.pdf', eventValue: 1});" target="_blank"><b>Hong_XU_CV.pdf</b></a>
 
 <!---
 | <a href="https://github.com/XuHongCN/CV/raw/master/resume_cn.pdf" target="_blank"><b>徐泓_简历.pdf</b></a>
