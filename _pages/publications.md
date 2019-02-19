@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
+<img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Banner_Research.jpg?raw=true" alt="Banner_Research.ipg">
 
 ### [1] Fighting the Noise: Towards the Limits of Subsecond X-ray Tomographic Microscopy of PEFC
 ***Hong Xu**, Minna Bührer, Federica Marone, Prof. Thomas J. Schmidt, Felix N Büchi and Jens Eller*. ECS Trans. 80(8), 395-402 (2017). doi: 10.1149/08008.0395ecst
