@@ -28,7 +28,7 @@ function googleTranslateElementInit() {
 * Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
 
-<img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Uni_logo.png?raw=true" alt="Uni_logo.png">
+<img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Uni_logo2.jpg?raw=true" alt="Uni_logo2.jpg">
 
 ## Work experience
 
