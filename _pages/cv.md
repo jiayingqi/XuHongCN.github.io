@@ -23,9 +23,9 @@ function googleTranslateElementInit() {
 
 ## Education
 
-* Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected)
-* M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10
-* Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06
+* Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected) 
+* M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10 | <a href="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_data/Master_Degree_TUM_LMU_Germany_.pdf" target="_blank"><b>Master Degree DE.pdf</b></a>
+* Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06  | <a href="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_data/Master_Degree_Rennes_France.pdf" target="_blank"><b>Master Degree FR.pdf</b></a>
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
 
 <img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Uni_logo4.jpg?raw=true" alt="Uni_logo4.jpg">
