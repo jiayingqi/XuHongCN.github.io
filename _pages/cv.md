@@ -28,6 +28,8 @@ function googleTranslateElementInit() {
 * Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
 
+![](Uni_logo.png)
+
 ## Work experience
 
 * **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present
