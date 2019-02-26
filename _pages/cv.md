@@ -18,7 +18,7 @@ Download:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga
 ## Education
 
 * Ph.D Candidate, X-ray Imaging/Fuel Cell, **ETH Zürich**, Switzerland. 2016.12 - 2020.06 (expected) 
-* M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10 <a href="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_data/Bachelor_Degree_BJTU_CH_EN.pdf" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[Diploma]', eventValue: 1});" target="_blank"><b>Diploma</b></a>
+* M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10 <a href="https://raw.githubusercontent.com/XuHongCN/XuHongCN.github.io/master/_data/Bachelor_Degree_BJTU_CH_EN.pdf" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[Diploma]', eventValue: 1});" target="_blank"><b>Diploma</b></a>
 * Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06 
 * B.Sc in Materials Chemistry, **Beijing Jiaotong University**, China. 2009.09 - 2013.06
 
