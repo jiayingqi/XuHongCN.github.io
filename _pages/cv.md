@@ -117,7 +117,8 @@ Skills.
 * **Hobbies**
   * Photography, Jogging
 
-  <div id="google_translate_element"></div><script type="text/javascript">
+
+<div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true}, 'google_translate_element');
 }
