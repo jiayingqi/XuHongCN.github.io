@@ -41,12 +41,12 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
   * Project: In-operando Sub-second Computational Tomographic (CT) Imaging of Polymer Electrolyte Fuel Cells (PEFC).
   * Synchrotron X-ray Tomographic Imaging with High Spatial (2-3 um) and Temporal (0.1~1 s) Resolution at TOMCAT beamline at Swiss Light Source.
 
-* **Toyota Motor Europe (TME)**, Belgium. 2017.05 - 2017.07
+* **Toyota Motor Europe (TME)**, Belgium. 2017.05 - 2019.02
   * Research Collaborator in XTM Imaging.
   
-* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09
-  * Research Assistant in Polymer Physics at Chair of Experimental Physics, TUM.
-  * Worked on"Nanostructured Cobalt Oxides / P(S-b-NIPAM) Composites for Sensor Applications". 
+* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09  <a href="http://XuHongCN.github.io/files/RL_TUM_Ezz_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a>
+  * Research Assistant in Polymer Physics at Chair of Experimental Physics, TUM. <a href="http://XuHongCN.github.io/files/Master_Work_Grade_TUM_PeterMB.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[LabWork(A+)]</a>
+  * Worked on"Nanostructured Cobalt Oxides / P(S-b-NIPAM) Composites for Sensor Applications". <a href="http://XuHongCN.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Thesis(A+)]</a>
   * Characterized the morphology, structure and magnetic properties of structuremetal polymer composites using AFM, TEM, XPS, GISAXS, SAXS and SQUID techniques.
   
 * **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 <a href="http://XuHongCN.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a>
