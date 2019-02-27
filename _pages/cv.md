@@ -37,7 +37,7 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
 # <span style="font-variant:small-caps;">Working Experience and Internships</span>
 
 * **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present 
-  * Doctoral Researcher in Fuel Cell Systems and Diagnostics Group, Energy and Environmental Department, PSI. <a href="http://XuHongCN.github.io/files/PSI_PhD_Job_Description.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[JobAgr]</a>  
+  * Doctoral Researcher in Fuel Cell Systems & Diagnostics Group, Energy & Environmental Department. <a href="http://XuHongCN.github.io/files/PSI_PhD_Job_Description.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[JobDes]</a>  
   * Project: In-operando Sub-second Computational Tomographic (CT) Imaging of Polymer Electrolyte Fuel Cells (PEFC).
   * Synchrotron X-ray Tomographic Imaging with High Spatial (2-3 um) and Temporal (0.1~1 s) Resolution at TOMCAT beamline at Swiss Light Source.
 
