@@ -94,7 +94,7 @@ Skills.
 # <span style="font-variant:small-caps;">Presentations & Talks</span>
 
 * **Talks**
-  * Xu, Hong (PSI). Oral Presentation, 8th International Conference on Fundamentals and Development of Fuel Cells, Nantes, France. Feburary 12, 2019.
+  * Xu, Hong (PSI). Oral Presentation, 8th International Conference on Fundamentals and Development of Fuel Cells, Nantes, France. Feburary 12, 2019. <a href="https://youtu.be/4PcuxE_04mg" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaEN]', eventValue: 1});" target="_blank">[Video]</a>
   * Xu, Hong (PSI). Scheduled talk, Electrochemistry Lab Seminar, Villigen PSI, Switzerland. Feb 28, 2018.
   * Xu, Hong (PSI). Invited talk, SLS Symposium, Villigen PSI, Switzerland. July 7, 2017.
   * Xu, Hong (PSI). Oral Presentation, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
