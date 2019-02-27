@@ -136,7 +136,7 @@ Skills.
 * **CS skills**
   * **Python, Matlab, Macro**, Adobe Series, AutoCAD, Origin, SQL
 
-* **Large Scale Facilities Visit**
+* **Synchrotron/Neutron Facilities Visit**
   * Synchrotron Soleil, Paris, France. Visitor (2015)
   * Saclay Nuclear Research Centre (CEA), Paris, France. Visitor (2015)
   * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany. Visitor (2015)
