@@ -66,17 +66,17 @@ Skills.
 
 * **Academic Papers**
   * **H. Xu**, M. Bührer, F. Marone, Prof. T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
-  * Prof. 张辉, **徐泓**, 万金秀, 颜鲁婷, 戴春爱. 真空与低温[J], 2012, 18(3): 134−141.
-  * 祁晓月, **徐泓**, 周兴振. 化学研究[J], 2012, v.23(03): 45-49.
+  * Prof. Hui Zhang, **Hong Xu** Jinxiu Wan, Prof. Luting Yan, Chunai Dai. Vacuum & Cryogenics [J]. 2012, 18(3): 134−141. (Chinese ver.)
+  * Xiaoyue Qi, **Hong Xu**, Xingzhen Zhou. Chem. Res. [J], 2012, v.23(03): 45-49. (Chinese ver.)
   
 * **National Patents**
-  * Prof. Ming Fu, Prof. Hui Zhang, **Hong Xu**, Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
-  * Prof. Hui Zhang, **Hong Xu**, Mingfu, Luting Yan. Issued on Nov 1, 2013. CN201110355808.8
-  * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3
+  * Prof. Ming Fu, Prof. Hui Zhang, **Hong Xu**, Prof. Luting Yan. Issued on Oct 11, 2013. CN201110355807.3 (Chinese ver.)
+  * Prof. Hui Zhang, **Hong Xu**, Prof. Ming Fu, Prof. Luting Yan. Issued on Nov 1, 2013. CN201110355808.8 (Chinese ver.)
+  * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3 (Chinese ver.)
   
 * **Dissertation**
   * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
-  * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
+  * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013. (Chinese ver.)
 
 * **Reports**
   * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016.
