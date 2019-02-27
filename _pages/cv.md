@@ -109,10 +109,11 @@ Skills.
 
 # <span style="font-variant:small-caps;">Teaching Events</span>
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* **529-0191-01L Renewable Energy Technology II, Energy Storage and Conversion**
+ * Teaching Assistant, Master Course, ETH Zürich, Department of Chemistry (2019)
+ * Teaching Assistant, Master Course, ETH Zürich, Department of Chemistry (2018)
+ * Teaching Assistant, Master Course, ETH Zürich, Department of Chemistry (2017)
+  
 # <span style="font-variant:small-caps;">Honors & Awards</span>
 
 * **International**
