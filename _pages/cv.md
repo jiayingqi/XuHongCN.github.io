@@ -66,13 +66,13 @@ Skills.
 
 * **Academic Papers**
   * **H. Xu**, M. Bührer, F. Marone, Prof. T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
-  * Prof. Hui Zhang, **Hong Xu** Jinxiu Wan, Prof. Luting Yan, Chunai Dai. Vacuum & Cryogenics [J]. 2012, 18(3): 134−141. (Chinese ver.)
-  * Xiaoyue Qi, **Hong Xu**, Xingzhen Zhou. Chem. Res. [J], 2012, v.23(03): 45-49. (Chinese ver.)
+  * Prof. Hui Zhang, **Hong Xu**, Jinxiu Wan, Prof. Luting Yan, Chunai Dai. Vacuum & Cryogenics [J]. 2012, 18(3): 134−141. <a href="http://XuHongCN.github.io/files/新型多孔氧化物球形粉末的雾化反应法制备.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Paper(CN)]</a> 
+  * Xiaoyue Qi, **Hong Xu**, Xingzhen Zhou. Chem. Res. [J], 2012, v.23(03): 45-49. <a href="http://XuHongCN.github.io/files/超声波-二氧化钛光催化耦合法降解高效氯氰菊酯.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Paper(CN)]</a> 
   
 * **National Patents**
-  * Prof. Ming Fu, Prof. Hui Zhang, **Hong Xu**, Prof. Luting Yan. Issued on Oct 11, 2013. CN201110355807.3 (Chinese ver.)
-  * Prof. Hui Zhang, **Hong Xu**, Prof. Ming Fu, Prof. Luting Yan. Issued on Nov 1, 2013. CN201110355808.8 (Chinese ver.)
-  * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3 (Chinese ver.)
+  * Prof. Ming Fu, Prof. Hui Zhang, **Hong Xu**, Prof. Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
+  * Prof. Hui Zhang, **Hong Xu**, Prof. Ming Fu, Prof. Luting Yan. Issued on Nov 1, 2013. CN201110355808.8
+  * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3
   
 * **Dissertation**
   * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
