@@ -15,6 +15,9 @@ redirect_from:
 | <a href="https://github.com/XuHongCN/CV/raw/master/resume_cn.pdf" target="_blank"><b>徐泓_简历.pdf</b></a>
 -->
 
+
+<span style="font-variant:small-caps;">Hello World Education</span>
+
 ## E<sub>DUCATION</sub>
 
 * **Swiss Federal Institute of Technology in Zurich (ETHz) **, Switzerland. 2016.12 - 2020.06 <sup>(Est.)</sup>     
