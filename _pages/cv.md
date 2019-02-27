@@ -79,9 +79,9 @@ Skills.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013. <a href="http://XuHongCN.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Thesis(CN)]</a>
 
 * **Reports**
-  * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016.
-  * Mr. **XU, Hong**. Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. **European XFEL**. Hamburg, Germany, 2015.
-  * Mr. **XU, Hong**. Beijing DS (Desheng) Solar Battery Technology Co., Ltd. Business Plan. **CHALLENGE CUP**. Beijing, China, 2013.
+  * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China [R]. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016.
+  * Mr. **XU, Hong**. Design and Construction of the Test-Stand for Split and Delay Line [R]. Tech. Report. **European XFEL**. Hamburg, Germany, 2015.
+  * Mr. **XU, Hong**. Beijing DS (DESHENG) Solar Cells Technology Co., Ltd [R]. Business Plan. **CHALLENGE CUP**. Beijing, China, 2013.
 
 * **Proposals**
   * Mr. **XU, Hong**. Revealing the water redistribution dynamics in PEFC gas diffusion layers during load changes. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2018.
