@@ -20,11 +20,9 @@ Download:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga
 * **Swiss Federal Institute of Technology in Zurich (ETHz)**, Switzerland. 2016.12 - 2020.06 (expected)   
 Ph.D Candidate, X-ray Imaging/Fuel Cell
 
-* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.10  
-M.Sc in Materials Science <a href="http://XuHongCN.github.io/files/Master_Degree_TUM_LMU_Germany_.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[DegreeDE]</a> 
-
-* **University of Rennes I (UR1)**, France. 2014.09 - 2015.06  
-Maîtrise in Physics (EU-Mobility) <a href="http://XuHongCN.github.io/files/Master_Degree_Rennes_France.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaEN]', eventValue: 1});" target="_blank">[DegreeFR]</a> 
+* **Technical University of Munich (TUM)**, Germany. 2014.10 - 2016.10  
+M.Sc in Materials Science, jointly by LMU Munich. <a href="http://XuHongCN.github.io/files/Master_Degree_TUM_LMU_Germany_.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[DegreeDE]</a>  
+M.Sc in Physics (EU-Mobility), University of Rennes I, France. <a href="http://XuHongCN.github.io/files/Master_Degree_Rennes_France.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaFR]', eventValue: 1});" target="_blank">[DegreeFR]</a> 
 
 * **Beijing Jiaotong University (BJTU)**, China. 2009.09 - 2013.06  
 B.Sc in Materials Chemistry <a href="http://XuHongCN.github.io/files/Bachelor_Degree_BJTU_CH_EN.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaEN]', eventValue: 1});" target="_blank">[DiplomaEN]</a> <a href="http://XuHongCN.github.io/files/Bachelor_Degree_BJTU_CN.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[DiplomaCN]</a>
