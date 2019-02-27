@@ -22,7 +22,6 @@ Download:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga
 [ID]
 
 * M.Sc in Materials Science, **LMU/TU München**, Germany. 2015.10 - 2016.10
-
 <a href="http://XuHongCN.github.io/files/Master_Degree_TUM_LMU_Germany_.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[DegreeDE]</a> 
 
 * Maîtrise in Physics (EU-Mobility), **Université de Rennes I**, France. 2014.09 - 2015.06 
