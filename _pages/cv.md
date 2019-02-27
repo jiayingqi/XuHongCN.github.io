@@ -28,7 +28,7 @@ M.Sc in Physics (EU-Mobility), by Uni. Rennes I, France. GPA: 15.6/20
 
 * **Beijing Jiaotong University (BJTU)**, China. 2009.09 - 2013.06  
 B.Sc in Materials Chemistry, Major GPA: 90.3/100  
-<a href="http://XuHongCN.github.io/files/Bachelor_Degree_BJTU_CH_EN.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaEN]', eventValue: 1});" target="_blank">[DiplomaBJTU]</a> <a href="http://XuHongCN.github.io/files/Bachelor_Degree_BJTU_CN.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[DiplomaCN]</a>
+<a href="http://XuHongCN.github.io/files/Bachelor_Degree_BJTU_CH_EN.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaEN]', eventValue: 1});" target="_blank">[DiplomaBJTU]</a> <a href="http://XuHongCN.github.io/files/Bachelor_Degree_BJTU_CN.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[学位证书]</a>
 
 <!---
 <img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Uni_logo4.jpg?raw=true" alt="Uni_logo4.jpg">
