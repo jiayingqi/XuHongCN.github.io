@@ -55,8 +55,8 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100 <a href="http://XuHongCN.github
   * Calibrated parameters in the specific models by using local meteorological data and predicted the cyanobacterial blooms for Yuqiao reservoir in Tianjin, China.
 Skills.
 
-* **European XFEL GmbH**, Germany. 2015.05 - 2015.07 
-  * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a> <a href="http://XuHongCN.github.io/files/RL_European_XFEL_Anders_2015.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a>  
+* **European XFEL GmbH**, Germany. 2015.05 - 2015.07  <a href="http://XuHongCN.github.io/files/RL_European_XFEL_Anders_2015.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a>  
+  * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a>  
   * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python.
 
 ## Publications
