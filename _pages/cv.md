@@ -49,7 +49,7 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
   * Worked on"Nanostructured Cobalt Oxides / P(S-b-NIPAM) Composites for Sensor Applications". 
   * Characterized the morphology, structure and magnetic properties of structuremetal polymer composites using AFM, TEM, XPS, GISAXS, SAXS and SQUID techniques.
   
-* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06
+* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 <a href="http://XuHongCN.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a>
   * Failure Analysis of thermal and electrical stressed Infineon chips with temperature from -40 to 125 Celsius degrees and time from 0 to 10,000 hours.
   * Statistically analysed the electronic behaviours of stressed Infineon chips for optimization, then summarized and reported them to supervisor.
 
