@@ -142,7 +142,7 @@ Skills.
   * European XFEL GmbH, Hamburg, Germany. **Intern** (2015)
   * Research Nuclear Reactor Munich (FRM) II, Munich, Germany. Visitor (2016)
   * Elettra Sincrotrone Trieste, Trieste, Italy. **User** (2016)
-  * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany. **User** (2015)
+  * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany. **User** (2016)
   * Swiss Light Source (SLS), Villigen PSI, Switzerland. **User** (2017-2019)
 
 * **Hobbies**
