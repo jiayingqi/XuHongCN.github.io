@@ -70,7 +70,7 @@ Skills.
   * 祁晓月, **徐泓**, 周兴振. 化学研究[J], 2012, v.23(03): 45-49.
   
 * **National Patents**
-  * Prof. Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
+  * Prof. Ming Fu, Prof. Hui Zhang, **Hong Xu**, Luting Yan. Issued on Oct 11, 2013. CN201110355807.3
   * Prof. Hui Zhang, **Hong Xu**, Mingfu, Luting Yan. Issued on Nov 1, 2013. CN201110355808.8
   * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3
   
@@ -110,7 +110,7 @@ Skills.
   * 2012 **Finalist** in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC). <a href="http://XuHongCN.github.io/files/TECO Green Tech Contest_International_Outstandingly.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[TecoAward]</a>  
 
 * **Domestic**
-  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Contest, by Ministry of Edu. of China, Beijing, China. <a href="http://XuHongCN.github.io/files/第八届挑战杯“复星”中国大学生创业计划竞赛_国家级_铜奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardCN]</a> <a href="http://XuHongCN.github.io/files/2011-2013年度北京交通大学“挑战杯”创业计划大赛_校级_一等奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardBJTU]</a>   
+  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of China, Beijing, China. <a href="http://XuHongCN.github.io/files/第八届挑战杯“复星”中国大学生创业计划竞赛_国家级_铜奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardCN]</a> <a href="http://XuHongCN.github.io/files/2011-2013年度北京交通大学“挑战杯”创业计划大赛_校级_一等奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardBJTU]</a>  
   * 2012 **Innovation Scholarship**, by Beijing Jiaotong Univeristy Beijing, China.
   * 2010 **Learning Scholarship** (for 3 years), by Beijing Jiaotong Univeristy, Beijing, China.
   * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
