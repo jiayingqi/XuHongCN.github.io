@@ -87,7 +87,7 @@ Skills.
 
 * **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
-  * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018. <a href="http://XuHongCN.github.io/files/Student_Poster_Award_ModVal2018.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Award]</a>  
+  * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018. <a href="http://XuHongCN.github.io/files/Student_Poster_Award_ModVal2018.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[PosterAward]</a>  
   * Xu, Hong (PSI). Poster, 14th Symposium on Modeling and Experimental Validation, Karlsruhe, Germany. March 2, 2017.
   * Xu, Hong (TUM). Poster, 80th Annual Meeting of DPG and DPG Spring Meeting of the Condensed Matter Section (SKM), Regensburg, Germany. March 3, 2016
 
@@ -105,12 +105,12 @@ Skills.
 # <span style="font-variant:small-caps;">Honors & Awards</span>
 
 * **International**
-  * 2018 **Poster Prize Award**, by ModVal Conference Committe, Aarau, Switzerland.
+  * 2018 **Poster Prize Award**, by ModVal Conference Committe, Aarau, Switzerland. <a href="http://XuHongCN.github.io/files/Student_Poster_Award_ModVal2018.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[PosterAward]</a>  
   * 2015 **Erasmus+ Scholarship**, by European Education, Audiovisual and Culture Executive Agency, Rennes, France.
-  * 2012 **Finalist** in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC). <a href="http://XuHongCN.github.io/files/TECO Green Tech Contest_International_Outstandingly.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Award]</a>  
+  * 2012 **Finalist** in TECO Green Tech Contest, by Taipei TECO Technology Foundation, Taipei, Taiwan (ROC). <a href="http://XuHongCN.github.io/files/TECO Green Tech Contest_International_Outstandingly.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[TecoAward]</a>  
 
 * **Domestic**
-  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Competition, by Ministry of Education of China, Beijing, China. <a href="http://XuHongCN.github.io/files/第八届挑战杯“复星”中国大学生创业计划竞赛_国家级_铜奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardCN]</a> <a href="http://XuHongCN.github.io/files/2011-2013年度北京交通大学“挑战杯”创业计划大赛_校级_一等奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardBJTU]</a>   
+  * 2012 **Bronze** in 8th CHALLENGE CUP Business Plan Contest, by Ministry of Edu. of China, Beijing, China. <a href="http://XuHongCN.github.io/files/第八届挑战杯“复星”中国大学生创业计划竞赛_国家级_铜奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardCN]</a> <a href="http://XuHongCN.github.io/files/2011-2013年度北京交通大学“挑战杯”创业计划大赛_校级_一等奖.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AwardBJTU]</a>   
   * 2012 **Innovation Scholarship**, by Beijing Jiaotong Univeristy Beijing, China.
   * 2010 **Learning Scholarship** (for 3 years), by Beijing Jiaotong Univeristy, Beijing, China.
   * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
