@@ -60,7 +60,7 @@ Skills.
 
 * **European XFEL GmbH**, Germany. 2015.05 - 2015.07  <a href="http://XuHongCN.github.io/files/RL_European_XFEL_Anders_2015.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a>  
   * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a>  
-  * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python.
+  * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python. <a href="http://XuHongCN.github.io/files/The Split and Delay Line for MID.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[SDL Slides]</a>  
 
 # <span style="font-variant:small-caps;">Patents & Publications</span>
 
@@ -79,9 +79,11 @@ Skills.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013. <a href="http://XuHongCN.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Thesis(CN)]</a>
 
 * **Reports**
-  * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China [R]. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016.
-  * Mr. **XU, Hong**. Design and Construction of the Test-Stand for Split and Delay Line [R]. Tech. Report. **European XFEL**. Hamburg, Germany, 2015.
-  * Mr. **XU, Hong**. Beijing DS (DESHENG) Solar Cells Technology Co., Ltd [R]. Business Plan. **CHALLENGE CUP**. Beijing, China, 2013.
+  * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China [R]. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016. <a href="http://XuHongCN.github.io/files/PontYuqiao_Training_Report-Hong Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(EN)]</a>    
+  * Mr. **XU, Hong**. Monitoring, Modeling and Early Warning Program for Ocean Red Tide [R]. Plan Report. **Haihe River Committee**, Tianjin, China, 2016.  <a href="http://XuHongCN.github.io/files/水体赤潮模型报告.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Plan(CN)]</a>
+  * Mr. **XU, Hong**. Design and Construction of the Test-Stand for Split and Delay Line [R]. Tech. Report. **European XFEL**. Hamburg, Germany, 2015. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(EN)]</a>
+  * Mr. **XU, Hong**. Improved Dye-sensitized solar cells Based on the PC Structure of Biomimetic Butterfly Wings [R]. Project Plan. **CHALLENGE CUP**. Beijing, China, 2013. <a href="http://XuHongCN.github.io/files/Improved Dye-sensitized solar cells Based on the PC Structure of Biomimetic Butterfly Wings.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(EN)]</a>
+  * Mr. **XU, Hong**. Beijing DS (DESHENG) Solar Cells Technology Co., Ltd [R]. Business Plan. **CHALLENGE CUP**. Beijing, China, 2012. <a href="http://XuHongCN.github.io/files/北京DS（德胜）太阳能电池科技有限公司商业计划书.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(CN)]</a>
 
 * **Proposals**
   * Mr. **XU, Hong**. Revealing the water redistribution dynamics in PEFC gas diffusion layers during load changes. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2018.
@@ -98,13 +100,14 @@ Skills.
 * **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
   * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018. <a href="http://XuHongCN.github.io/files/Student_Poster_Award_ModVal2018.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[PosterAward]</a>  
-  * Xu, Hong (PSI). Poster, 14th Symposium on Modeling and Experimental Validation, Karlsruhe, Germany. March 2, 2017.
-  * Xu, Hong (TUM). Poster, 80th Annual Meeting of DPG and DPG Spring Meeting of the Condensed Matter Section (SKM), Regensburg, Germany. March 3, 2016
+  * Xu, Hong (PSI). Poster, 14th Symposium on Modeling and Experimental Validation, Karlsruhe, Germany. March 2, 2017.  
+  * Xu, Hong (TUM). Poster, 80th Annual Meeting of DPG and DPG Spring Meeting of the Condensed Matter Section (SKM), Regensburg, Germany. March 3, 2016. <a href="http://XuHongCN.github.io/files/Poster_DPG2016_Hong Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Poster]</a>  
 
 # <span style="font-variant:small-caps;">Summer School</span>
 
 * Xu, Hong (PSI). **EXCITE Summer School on Biomedical Imaging**. Organized by ETH Zürich and Uni Zürich. Zürich, Switzerland. 2 - 15 Sept 2017.
-* Xu, Hong (TUM). **TUM Physik E13 Summer School**. Organized by Technische Universität München. Obertauern, Austria. 21 - 23 Jun 2016.
+* Xu, Hong (TUM). **TUM Physik E13 Summer School**. Organized by Technische Universität München. Obertauern, Austria. 21 - 23 Jun 2016. <a href="http://XuHongCN.github.io/files/Poster_SummerSchool2016_Hong Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Poster]</a>  
+
 * Xu, Hong (U. Rennes I). **MaMaSELF Summer School on X-ray and Neutron Scattering**. Organized by Université de Montpellier. Montpellier, France. 5 - 17 Sept 2015.
 
 # <span style="font-variant:small-caps;">Teaching Events</span>
