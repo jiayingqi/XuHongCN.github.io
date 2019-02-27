@@ -16,7 +16,7 @@ redirect_from:
 -->
 
 
-<span style="font-variant:small-caps;">Hello World Education</span>
+<span style="font-variant:small-caps;">Education</span>
 
 ## E<sub>DUCATION</sub>
 
