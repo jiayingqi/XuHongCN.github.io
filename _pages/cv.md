@@ -77,7 +77,17 @@ Skills.
 * **Dissertation**
   * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
-  
+
+* **Reports**
+  * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016.
+  * Mr. **XU, Hong**. Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. **European XFEL**. Hamburg, Germany, 2015.
+  * Mr. **XU, Hong**. Beijing DS (Desheng) Solar Battery Technology Co., Ltd. Business Plan. **CHALLENGE CUP**. Beijing, China, 2013.
+
+* **Proposals**
+  * Mr. **XU, Hong**. Revealing the water redistribution dynamics in PEFC gas diffusion layers during load changes. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2018.
+  * Mr. **XU, Hong**. Fundamental understanding of dominating water transport mode in PEFC gas diffusion layers. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2017.
+  * Mr. **XU, Hong**. Water feature detectability in subsecond XTM of gas diffusion layer of PEFC. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2017.
+
 # <span style="font-variant:small-caps;">Presentations & Talks</span>
 
 * **Conferences/Talks**
