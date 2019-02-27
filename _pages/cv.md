@@ -93,12 +93,15 @@ Skills.
 
 # <span style="font-variant:small-caps;">Presentations & Talks</span>
 
-* **Conferences/Talks**
+* **Talks**
   * Xu, Hong (PSI). Oral Presentation, 8th International Conference on Fundamentals and Development of Fuel Cells, Nantes, France. Feburary 12, 2019.
+  * Xu, Hong (PSI). Scheduled talk, Electrochemistry Lab Seminar, Villigen PSI, Switzerland. Feb 28, 2018.
+  * Xu, Hong (PSI). Invited talk, SLS Symposium, Villigen PSI, Switzerland. July 7, 2017.
   * Xu, Hong (PSI). Oral Presentation, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
-
-* **Conferences/Poster**
+  * Xu, Hong (TUM). Seminar talk, Energy Materials Seminar, Munich, Germany. Nov 27, 2015.
+  
+* **Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
   * Xu, Hong (PSI). **Poster Prize Award**, 15th Symposium on Modeling and Experimental Validation, Aarau, Switzerland. April 12, 2018. <a href="http://XuHongCN.github.io/files/Student_Poster_Award_ModVal2018.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[PosterAward]</a>  
   * Xu, Hong (PSI). Poster, 14th Symposium on Modeling and Experimental Validation, Karlsruhe, Germany. March 2, 2017.  
