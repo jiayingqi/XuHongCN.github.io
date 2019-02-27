@@ -127,7 +127,7 @@ Skills.
   * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
   * 2010 **Advanced Individual** of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
 
-# <span style="font-variant:small-caps;">Languages & Skills</span>
+# <span style="font-variant:small-caps;">Skills & Activities</span>
 
 * **Language proficiency**
   * **English (fluent, C1), Chinese (native, C2)**, German (basic, A2), French (basic, A2). EU Standard.
@@ -135,9 +135,18 @@ Skills.
 * **CS skills**
   * **Python, Matlab, Macro**, Adobe Series, AutoCAD, Origin, SQL
 
+* **Large Scale Facilities Visit**
+  * Synchrotron Soleil, Paris, France. Visitor (2015)
+  * Saclay Nuclear Research Centre (CEA), Paris, France. Visitor (2015)
+  * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany. Visitor (2015)
+  * European XFEL GmbH, Hamburg, Germany. **Intern** (2015)
+  * Research Nuclear Reactor Munich (FRM) II, Munich, Germany. Visitor (2016)
+  * Elettra Sincrotrone Trieste, Trieste, Italy. **User** (2016)
+  * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany. **User** (2015)
+  * Swiss Light Source (SLS), Villigen PSI, Switzerland. **User** (2017-2019)
+
 * **Hobbies**
   * Photography, Jogging
-
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
