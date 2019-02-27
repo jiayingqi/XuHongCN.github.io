@@ -53,7 +53,7 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
   * Failure Analysis of thermal and electrical stressed Infineon chips with temperature from -40 to 125 Celsius degrees and time from 0 to 10,000 hours.
   * Statistically analysed the electronic behaviours of stressed Infineon chips for optimization, then summarized and reported them to supervisor.
 
-* **École des Ponts ParisTech**, France. 2015.08 - 2015.09
+* **École des Ponts ParisTech**, France. 2015.08 - 2015.09 <a href="http://XuHongCN.github.io/files/Invitation_Letter_Leesu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[InvitLetter]</a>  
   * Trained on the cyanobacteria modelling system developed by Lab of Water, Environment and Urban Systems (LEESU), ENPC and Tianjin Haihe River Conservancy Commission (HWCC) and aimed to apply it into controlling system of lakes and rivers in China.  <a href="http://XuHongCN.github.io/files/PontYuqiao_Training_Report-Hong Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a>    
   * Calibrated parameters in the specific models by using local meteorological data and predicted the cyanobacterial blooms for Yuqiao reservoir in Tianjin, China.
 Skills.
