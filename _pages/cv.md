@@ -18,7 +18,7 @@ Download:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga
 ## Education
 
 * **Swiss Federal Institute of Technology in Zurich (ETHz)**, Switzerland. 2016.12 - 2020.06 (expected)   
-Ph.D Candidate, X-ray Imaging/Fuel Cell
+Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0 <a href="http://XuHongCN.github.io/files/PhD_Admission_ETHz.pdf.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AdmCH]</a>  
 
 * **Technical University of Munich (TUM)**, Germany. 2014.10 - 2016.10  
 M.Sc in Materials Science, by TUM/LMU Munich. GPA: 1.43/1.0 <a href="http://XuHongCN.github.io/files/Master_Degree_TUM_LMU_Germany_.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[DegreeDE]</a>  
