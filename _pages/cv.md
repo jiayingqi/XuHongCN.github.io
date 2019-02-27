@@ -110,9 +110,9 @@ Skills.
 # <span style="font-variant:small-caps;">Teaching Events</span>
 
 * **529-0191-01L Renewable Energy Technology II, Energy Storage and Conversion**
-  * 03/2019 - 06/2019, Teaching Assistant, Master Course, ETH Zürich, Department of Chemistry.
-  * 03/2018 - 06/2018, Teaching Assistant, Master Course, ETH Zürich, Department of Chemistry.
-  * 03/2017 - 06/2017, Teaching Assistant, Master Course, ETH Zürich, Department of Chemistry.
+  * 03/2019 - 06/2019, Teaching Assistant, Master Course by Prof. T. J. Schmidt, Dr. L. Gubler, Deprt. Chem. ETH Zürich.
+  * 03/2018 - 06/2018, Teaching Assistant, Master Course by Prof. T. J. Schmidt, Dr. L. Gubler, Deprt. Chem. ETH Zürich.
+  * 03/2017 - 06/2017, Teaching Assistant, Master Course by Prof. T. J. Schmidt, Dr. L. Gubler, Deprt. Chem. ETH Zürich.
   
 # <span style="font-variant:small-caps;">Honors & Awards</span>
 
