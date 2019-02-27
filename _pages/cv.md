@@ -94,7 +94,7 @@ Skills.
 # <span style="font-variant:small-caps;">Summer School</span>
 
 * Xu, Hong (PSI). **EXCITE Summer School on Biomedical Imaging**. Organized by ETH Zürich and Uni Zürich. Zürich, Switzerland. 2 - 15 Sept 2017.
-* Xu, Hong (TUM). **TUM Physik E13 Summer School**. Organized by Technische Universität München. Obertauern, Austria. 14 - 16 Jun 2016.
+* Xu, Hong (TUM). **TUM Physik E13 Summer School**. Organized by Technische Universität München. Obertauern, Austria. 21 - 23 Jun 2016.
 * Xu, Hong (U. Rennes I). **MaMaSELF Summer School on X-ray and Neutron Scattering**. Organized by Université de Montpellier. Montpellier, France. 5 - 17 Sept 2015.
 
 # <span style="font-variant:small-caps;">Teaching Events</span>
