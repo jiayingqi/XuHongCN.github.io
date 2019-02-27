@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: 'Hong_XU_CV.pdf', eventValue: 1});" target="_blank"><b>Hong_XU_CV.pdf</b></a>
+<a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: 'Hong_XU_CV.pdf', eventValue: 1});" target="_blank"><b>[Hong_XU_CV.pdf]</b></a>
 
 <!---
 | <a href="https://github.com/XuHongCN/CV/raw/master/resume_cn.pdf" target="_blank"><b>徐泓_简历.pdf</b></a>
@@ -17,7 +17,7 @@ Download:  <a href="https://xuhongcn.github.io/files/Hong_XU_CV.pdf" onClick="ga
 
 ## Education
 
-* **Swiss Federal Institute of Technology in Zurich (ETHz)**, Switzerland. 2016.12 - 2020.06 (expected)   
+* **Swiss Federal Institute of Technology in Zurich <sup>(ETHz)</sup>**, Switzerland. 2016.12 - 2020.06 (expected)   
 Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0  
 <a href="http://XuHongCN.github.io/files/PhD_Admission_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AdmLetter]</a> <a href="http://XuHongCN.github.io/files/ETH_Registration_2019.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RegLetter]</a>  <a href="http://XuHongCN.github.io/files/Research_Plan_PhD_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[ResPlan]</a>
 
