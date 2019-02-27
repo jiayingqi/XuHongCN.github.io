@@ -15,6 +15,7 @@ redirect_from:
 | <a href="https://github.com/XuHongCN/CV/raw/master/resume_cn.pdf" target="_blank"><b>徐泓_简历.pdf</b></a>
 -->
 
+<font size=4>E</font><font size=2>DUCATION</font>
 
 <span style="font-variant:small-caps;">Education</span>
 
