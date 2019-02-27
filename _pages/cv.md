@@ -15,11 +15,7 @@ redirect_from:
 | <a href="https://github.com/XuHongCN/CV/raw/master/resume_cn.pdf" target="_blank"><b>徐泓_简历.pdf</b></a>
 -->
 
-<font size=4>E</font><font size=2>DUCATION</font>
-
-<span style="font-variant:small-caps;">Education</span>
-
-## E<sub>DUCATION</sub>
+## <span style="font-variant:small-caps;">Education</span>
 
 * **Swiss Federal Institute of Technology in Zurich (ETHz) **, Switzerland. 2016.12 - 2020.06 <sup>(Est.)</sup>     
 Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0  
@@ -38,7 +34,7 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
 <img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Uni_logo4.jpg?raw=true" alt="Uni_logo4.jpg">
 -->
 
-## Work experience
+## <span style="font-variant:small-caps;">Working Experience and Internships</span>
 
 * **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present
   * Doctoral Researcher in Fuel Cell Systems and Diagnostics Group, Energy and Environmental Department, PSI.
@@ -66,7 +62,7 @@ Skills.
   * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a>  
   * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python.
 
-## Publications
+## <span style="font-variant:small-caps;">Patents & Publications</span>
 
 * **Academic Papers**
   * **H. Xu**, M. Bührer, F. Marone, Prof. T. J. Schmidt, F. N. Büchi, J. Eller. ECS Trans. 80(8), 395-402 (2017). 
@@ -82,7 +78,7 @@ Skills.
   * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
   * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013.
   
-## Presentations & Talks
+## <span style="font-variant:small-caps;">Presentations & Talks</span>
 
 * **Conferences/Poster**
   * Xu, Hong (PSI). Poster, 69th Annual Meeting of the International Society of Electrochemistry, Bologna, Italy. September 03, 2018.
@@ -95,18 +91,18 @@ Skills.
   * Xu, Hong (PSI). Invited talk, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
   * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
 
-## Summer Schools
+## <span style="font-variant:small-caps;">Summer School</span>
 
 * Xu, Hong (PSI). **EXCITE Summer School on Biomedical Imaging**. Organized by ETH Zürich and Uni Zürich. 2 - 15 Sept 2017.
 * Xu, Hong (U. Rennes I). **MaMaSELF Summer School on X-ray and Neutron Scattering**. Organized by Université de Montpellier. 5 - 17 Sept 2015.
 
-## Teaching Events
+## <span style="font-variant:small-caps;">Teaching Events</span>
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Honors & Awards
+## <span style="font-variant:small-caps;">Honors & Awards</span>
 
 * **International**
   * 2018 **Poster Prize Award**, by ModVal Conference Committe, Aarau, Switzerland.
@@ -120,7 +116,7 @@ Skills.
   * 2010 **Excellent Membe**r of Student Union, by Beijing Jiaotong Univeristy, Beijing, China.
   * 2010 **Advanced Individual** of Social Practice, by Beijing Jiaotong Univeristy, Beijing, China.
 
-## Languages & Skills
+## <span style="font-variant:small-caps;">Languages & Skills</span>
 
 * **Language proficiency**
   * **English (fluent, C1), Chinese (native, C2)**, German (basic, A2), French (basic, A2). EU Standard.
