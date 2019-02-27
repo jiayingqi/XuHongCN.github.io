@@ -75,8 +75,8 @@ Skills.
   * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Issued on May 9, 2012. CN201120506527.3 <a href="https://patents.google.com/patent/CN202311136U/en" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Patent(CN)]</a>
   
 * **Dissertation**
-  * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016.
-  * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013. (Chinese ver.)
+  * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016. <a href="http://XuHongCN.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Thesis(EN)]</a>
+  * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013. <a href="http://XuHongCN.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Thesis(CN)]</a>
 
 * **Reports**
   * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016.
