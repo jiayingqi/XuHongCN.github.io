@@ -12,7 +12,7 @@ title: "The earth is round, I want to wander around"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zi4in89D-DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >## Just Run Europe - Video Editing 2016
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LIUMcXoMQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hfAAR_FPsWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >## C'est le meilleur de ma vie 1993
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
