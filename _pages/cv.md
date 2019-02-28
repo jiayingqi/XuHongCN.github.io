@@ -162,3 +162,11 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
+# <span style="font-variant:small-caps;">References</span>
+
+* Dr. Felix **Büchi**, Lab Head, Electrochemistry Lab, Paul Scherrer Institut, Villigen PSI, Switzerland.
+* Prof. Dr. Philippe **Rabiller**, MaMaSELF Coordinator, Department of Physics, Université de Rennes I, Rennes, France.
+* Dr. Anders **Madsen**, Group Leader MID, European XFEL, Hamburg, Germany.
+* Mr. Martin **Polzer**, Director Quality REL, Infineon Technologies AG, Munich, Germany.
+* Dr. Ezzeldin **Metwalli**, Research Scientist, Department of Physics, Technische Universität München, München,Germany.
