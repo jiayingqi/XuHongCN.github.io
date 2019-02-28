@@ -10,10 +10,7 @@ main:
     url: /talks/    
 
   - title: "教/TEACHING"
-    url: /teaching/    
-  
-  - title: "旅/TRAVELS"
-    url: /portfolio/
+    url: /teaching/ 
     
   - title: "影/LA GALERIE"
     url: /galerie/    
@@ -24,7 +21,9 @@ main:
   - title: "聯/CONTACT"
     url: /aboutme/
     
-
+  - title: "中/CHINESE"
+    url: https://xuhongcn.coding.me/
+    
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
