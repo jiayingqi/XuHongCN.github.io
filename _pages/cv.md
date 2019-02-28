@@ -165,8 +165,8 @@ function googleTranslateElementInit() {
 
 # <span style="font-variant:small-caps;">References</span>
 
-* Dr. Felix **Büchi**, Lab Head, Electrochemistry Lab, Paul Scherrer Institut, Villigen PSI, Switzerland.
-* Prof. Dr. Philippe **Rabiller**, MaMaSELF Coordinator, Department of Physics, Université de Rennes I, Rennes, France.
-* Dr. Anders **Madsen**, Group Leader MID, European XFEL, Hamburg, Germany.
-* Mr. Martin **Polzer**, Director Quality REL, Infineon Technologies AG, Munich, Germany.
-* Dr. Ezzeldin **Metwalli**, Research Scientist, Department of Physics, Technische Universität München, München,Germany.
+* Dr. Felix **Büchi**, Lab Head, Electrochemistry Lab, Paul Scherrer Institut, Villigen PSI, Switzerland. <a href="http://xuhongcn.github.io/files/Letter_Reference_Summer_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RL]</a>
+* Dr. Ezzeldin **Metwalli**, Research Scientist, Department of Physics, Technische Universität München, München,Germany. <a href="http://xuhongcn.github.io/files/RL_TUM_Ezz_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RL]</a>
+* Mr. Martin **Polzer**, Director Quality REL, Infineon Technologies AG, Munich, Germany. <a href="http://xuhongcn.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RL]</a>
+* Dr. Anders **Madsen**, Group Leader MID, European XFEL, Hamburg, Germany. <a href="http://xuhongcn.github.io/files/RL_European_XFEL_Anders_2015.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RL]</a>
+* Prof. Dr. Philippe **Rabiller**, MaMaSELF Director, Department of Physics, Université de Rennes I, Rennes, France. <a href="http://xuhongcn.github.io/files/Recommendation_Letter_ErasmusGrant_XU-Hong_en.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RL]</a> 
