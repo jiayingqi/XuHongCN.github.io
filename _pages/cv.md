@@ -98,7 +98,7 @@ Skills.
   * Xu, Hong (PSI). Scheduled talk, Electrochemistry Lab Seminar, Villigen PSI, Switzerland. Feb 28, 2018.
   * Xu, Hong (PSI). Invited talk, SLS Symposium, Villigen PSI, Switzerland. July 7, 2017.
   * Xu, Hong (PSI). Oral Presentation, 6th European PEFC & ELectrolyser Forum, Luzern, Switzerland. July 7, 2017.
-  * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016.
+  * Xu, Hong (TUM). Invited talk, MaMaSELF Program Status Meeting, Rigi Kulm, Switzerland. May 12, 2016. <a href="http://XuHongCN.github.io/files/2016-Rigi-MaMaSELF-Invitaton-Letter-Hong-Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[InvitLetter]</a>  
   * Xu, Hong (TUM). Seminar talk, Energy Materials Seminar, Munich, Germany. Nov 27, 2015.  <a href="http://XuHongCN.github.io/files/TUM_Seminar_DSSC.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Slides]</a>  
   
 * **Poster**
