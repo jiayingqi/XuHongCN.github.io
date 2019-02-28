@@ -11,9 +11,6 @@ title: "The earth is round, I want to wander around"
 >## Switzerland - Timelapse 2017
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zi4in89D-DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->## Friend Visit - Video Filming 2017
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e9uULjBSyeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 >## Just Run Europe - Video Editing 2016
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LIUMcXoMQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
