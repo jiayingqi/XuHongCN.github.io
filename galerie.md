@@ -11,7 +11,13 @@ title: "The earth is round, I want to wander around"
 >## Switzerland - Timelapse 2017
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zi4in89D-DQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->## C'est le meilleur de ma vie
+>## Friend Visit - Video Filming 2017
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9uULjBSyeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>## Just Run Europe - Video Editing 2016
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LIUMcXoMQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>## C'est le meilleur de ma vie 1993
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/kidQNjMhp1vx4ddD6"
