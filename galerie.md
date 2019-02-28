@@ -1,6 +1,8 @@
 ---
 title: "J'irai jusqu'au bout de mes rêves."
 ---
+<br/>
+<br/>
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
