@@ -157,12 +157,6 @@ Skills.
 * **Hobbies**
   * Photography, Jogging
 
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
-
 # <span style="font-variant:small-caps;">References</span>
 
 * Dr. Felix **Büchi**, Lab Head, Electrochemistry Lab, Paul Scherrer Institut, Villigen PSI, Switzerland. <a href="http://xuhongcn.github.io/files/Letter_Reference_Summer_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a>
@@ -170,3 +164,13 @@ function googleTranslateElementInit() {
 * Mr. Martin **Polzer**, Director Quality REL, Infineon Technologies AG, Munich, Germany. <a href="http://xuhongcn.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a>
 * Dr. Anders **Madsen**, Group Leader MID, European XFEL, Hamburg, Germany. <a href="http://xuhongcn.github.io/files/RL_European_XFEL_Anders_2015.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a>
 * Prof. Dr. Philippe **Rabiller**, MaMaSELF Director, Department of Physics, Université de Rennes I, Rennes, France. <a href="http://xuhongcn.github.io/files/Recommendation_Letter_ErasmusGrant_XU-Hong_en.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a> 
+<br/>
+<br/>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
+
+
