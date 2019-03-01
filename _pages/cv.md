@@ -23,7 +23,7 @@ Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0
 
 <P><IMG height=40 src="https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png" width=40 align=left border=0>
   <b>Swiss Federal Institute of Technology in Zurich (ETHz)</b>, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup> <br/> 
-  Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0<br/>
+  Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0  
   <a href="http://XuHongCN.github.io/files/PhD_Admission_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AdmLetter]</a> <a href="http://XuHongCN.github.io/files/ETH_Registration_2019.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RegLetter]</a>  <a href="http://XuHongCN.github.io/files/Research_Plan_PhD_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[ResPlan]</a>
 <BR>&nbsp;<BR clear=left>
 </P>
