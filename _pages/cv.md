@@ -28,8 +28,11 @@ Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0
 </P>
   
  <div>
-    <img src="https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png" style="display: table-cell; width:550px;height:1.14em; padding:0 0.1em;border: 4px solid #beceeb; color: #069; font-size: 10em;">
-<span style="display:inline-block; font-size: 0.1em; vertical-align: middle;">单行文字居中测试单行文字居中测试单行文字居中测试单行文字居中测试单行文字居中测试 </span>
+    <img height=40 src="https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png" width=40 style="display: table-cell; width:550px;height:1.14em; padding:0 0.1em;border: 4px solid #beceeb; color: #069; font-size: 10em;">
+<span style="display:inline-block; font-size: 0.1em; vertical-align: middle;">
+<b>Swiss Federal Institute of Technology in Zurich (ETHz)</b>, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup> <br/> 
+Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0<br/> 
+<a href="http://XuHongCN.github.io/files/PhD_Admission_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AdmLetter]</a> <a href="http://XuHongCN.github.io/files/ETH_Registration_2019.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RegLetter]</a>  <a href="http://XuHongCN.github.io/files/Research_Plan_PhD_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[ResPlan]</a></span>
 </div>
  
  
