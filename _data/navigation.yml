@@ -8,9 +8,6 @@ main:
 
   - title: "講/TALKS"
     url: /talks/    
-
-  - title: "教/TEACHING"
-    url: /teaching/ 
     
   - title: "影/LA GALERIE"
     url: /galerie/    
@@ -24,6 +21,7 @@ main:
   - title: "中/CHINESE"
     url: https://xuhongcn.coding.me/
     
-        
+#    - title: "教/TEACHING"
+#    url: /teaching/       
 #  - title: "Blog Posts"
 #    url: /year-archive/
