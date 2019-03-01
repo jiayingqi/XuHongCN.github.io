@@ -16,7 +16,7 @@ redirect_from:
 -->
 
 * **Swiss Federal Institute of Technology Zurich (ETHz)**, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup>  
-![ScreenShot](https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png){:height="40px" width="40px"}
+![ScreenShot](https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png =40x40)
 
 Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0  
 <a href="http://XuHongCN.github.io/files/PhD_Admission_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AdmLetter]</a> <a href="http://XuHongCN.github.io/files/ETH_Registration_2019.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RegLetter]</a>  <a href="http://XuHongCN.github.io/files/Research_Plan_PhD_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[ResPlan]</a>
