@@ -28,7 +28,7 @@ Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0
 </P>
   
  <div>
-    <img height=40 src="https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png" width=40 style="display: table-cell; width:550px;height:1.14em; padding:0 0.1em;border: 4px solid #beceeb; color: #069; font-size: 10em;">
+    <img height=40 src="https://www.ethz.ch/en/_jcr_content/image.imageformat.lightbox.png" width=40 align=left style="display: table-cell; width:550px;height:1.14em; padding:0 0.1em;border: 4px solid #beceeb; color: #069; font-size: 10em;">
 <span style="display:inline-block; font-size: 0.1em; vertical-align: middle;">
 <b>Swiss Federal Institute of Technology in Zurich (ETHz)</b>, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup> <br/> 
 Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0<br/> 
