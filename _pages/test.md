@@ -12,6 +12,9 @@ redirect_from:
 
  This is an <b>[example link](http://example.com/ "With a Title")</b>. 
 
+
+<ul><li><strong>Swiss Federal Institute of Technology in Zurich (ETHz)</strong>, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup><br/>Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0  </li></ul>
+
 <p>&lt;a href=&quot;https://xuhongcn.github.io/files/Hong<em>XU</em>CV.pdf&quot; style=&quot;color:rgb(65, 105, 225);&quot; onClick=&quot;ga(&#39;send&#39;, &#39;event&#39;, { eventCategory: &#39;https://xuhongcn.github.io/files/&#39;, eventAction: &#39;click&#39;, eventLabel: &#39;Hong<em>XU</em>CV.pdf&#39;, eventValue: 1});&quot; target=&quot;_blank&quot;&gt;[Hong<em>XU</em>CV.pdf]&lt;/a&gt;</p>
 
 <p>&lt;!---
