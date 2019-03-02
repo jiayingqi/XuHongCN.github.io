@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv.md
 ---
 
 {% include base_path %}
