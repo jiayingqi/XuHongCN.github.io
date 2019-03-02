@@ -39,7 +39,7 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
 
 # <span style="font-variant:small-caps;">Working Experience and Internships</span>
 
-* **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present <img src="https://XuHongCN.github.io/images/PSI_TOMCAT_logo.png" width="50" align="right" ><br/>  
+* **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present <img src="https://XuHongCN.github.io/images/PSI_logo.png" width="40" align="right" ><br/>  
   * Doctoral Researcher in Fuel Cell Systems & Diagnostics Group, Energy & Environmental Department. <a href="http://XuHongCN.github.io/files/PSI_PhD_Job_Description.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[JobDes]</a>  
   * Project: In-operando Sub-second Computational Tomographic (CT) Imaging of Polymer Electrolyte Fuel Cells (PEFC).
   * Synchrotron X-ray Tomographic Imaging with High Spatial (2-3 um) and Temporal (0.1~1 s) Resolution at TOMCAT beamline at Swiss Light Source.
@@ -52,7 +52,7 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
   * Master Thesis: "Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles". <a href="http://XuHongCN.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Thesis(A+)]</a> <a href="http://XuHongCN.github.io/files/Confirmation_Master_Thesis_TUM.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Confirmation]</a>
   * Characterized the morphology, structure and magnetic properties of structuremetal polymer composites using AFM, TEM, XPS, GISAXS, SAXS and SQUID techniques.
   
-* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 <a href="http://XuHongCN.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a><img src="https://XuHongCN.github.io/images/Infineon_logo.png" width="50" align="right" ><br/> 
+* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 <a href="http://XuHongCN.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a><img src="https://XuHongCN.github.io/images/Infineon_logo.png" width="40" align="right" ><br/> 
   * Failure Analysis of thermal and electrical stressed Infineon chips with temperature from -40 to 125 Celsius degrees and time from 0 to 10,000 hours.
   * Statistically analysed the electronic behaviours of stressed Infineon chips for optimization, then summarized and reported them to supervisor.
 
