@@ -1,24 +1,24 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "歷/CV"
     url: /cv/    
 
-  - title: "RESEARCH"
+  - title: "研/RESEARCH"
     url: /publications/
 
-  - title: "TALKS"
+  - title: "講/TALKS"
     url: /talks/    
     
-  - title: "LA GALERIE"
+  - title: "影/LA GALERIE"
     url: /galerie/    
   
-  - title: "POÈME"
+  - title: "詩/POÈME"
     url: /poeme/    
   
-  - title: "CONTACT"
+  - title: "聯/CONTACT"
     url: /aboutme/
     
-  - title: "CHINESE"
+  - title: "中/CHINESE"
     url: https://xuhongcn.coding.me/
     
 #    - title: "教/TEACHING"
