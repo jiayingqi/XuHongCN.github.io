@@ -17,9 +17,6 @@ title: "The earth is round, I want to wander around"
 >## Winter in Switzerland - Trip 2017
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ElUbiMQilXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->## Just Run Europe - Video Editing 2016
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hfAAR_FPsWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 >## C'est le meilleur de ma vie 1993
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
