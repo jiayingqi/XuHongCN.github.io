@@ -35,6 +35,3 @@ author_profile: true
   * 03/2019 - 06/2019, Teaching Assistant, Master Course by Prof. T. J. Schmidt, Depart. Chem. ETH Zürich.
   * 03/2018 - 06/2018, Teaching Assistant, Master Course by Prof. T. J. Schmidt, Depart. Chem. ETH Zürich.
   * 03/2017 - 06/2017, Teaching Assistant, Master Course by Prof. T. J. Schmidt, Depart. Chem. ETH Zürich.
-  
-# <span style="font-variant:small-caps;">Honors & Awards</span>
-
