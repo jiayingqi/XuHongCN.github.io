@@ -1,72 +1,35 @@
 ---
 layout: archive
-title: "Academic Papers:"
+title: "Research & Reports"
 permalink: /publications/
 author_profile: true
 
 ---
 <img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Banner_Research.jpg?raw=true" alt="Banner_Research.ipg">
 
-### [1] Fighting the Noise: Towards the Limits of Subsecond X-ray Tomographic Microscopy of PEFC
-***Hong Xu**, Minna Bührer, Federica Marone, Prof. Thomas J. Schmidt, Felix N Büchi and Jens Eller*. ECS Trans. 80(8), 395-402 (2017). doi: 10.1149/08008.0395ecst
+* **Academic Papers**
+  * **H. Xu**, M. Bührer, F. Marone, Prof. T. J. Schmidt, F. N. Büchi, J. Eller. Fighting the Noise: Towards the Limits of Subsecond X-ray Tomographic Microscopy of PEFC [J]. ECS Trans. 80(8), 395-402 (2017). 
+  * Prof. Hui Zhang, **Hong Xu**, Jinxiu Wan, Prof. Luting Yan, Chunai Dai. Preparations of new porous oxides spherical powders by spray reaction technique [J]. Vacuum & Cryogenics. 2012, 18(3): 134−141. <a href="http://XuHongCN.github.io/files/新型多孔氧化物球形粉末的雾化反应法制备.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Paper(CN)]</a> 
+  * Xiaoyue Qi, **Hong Xu**, Xingzhen Zhou. Degradation of highly active cypermethrin via ultrasonic irradiation combined with photocatalysis by titanium dioxide [J]. Chem. Res., 2012, v.23(03): 45-49. <a href="http://XuHongCN.github.io/files/超声波-二氧化钛光催化耦合法降解高效氯氰菊酯.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Paper(CN)]</a> 
+  
+* **National Patents**
+  * Prof. Ming Fu, Prof. Hui Zhang, **Hong Xu**, Prof. Luting Yan. Annular gas-liquid interface jigging magnetic separation device [P]. Issued on Oct 11, 2013. CN201110355807.3 <a href="https://patents.google.com/patent/CN102441489A/en" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Patent(CN)]</a> 
+  * Prof. Hui Zhang, **Hong Xu**, Prof. Ming Fu, Prof. Luting Yan. Gas-liquid interface jigging magnetic separation controllable annular device capable of continuously operating [P]. Issued on Nov 1, 2013. CN201110355808.8 <a href="https://patents.google.com/patent/CN102441490B/en" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Patent(CN)]</a>
+  * Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue Qi. Ultrasonic-photocatalytic oxidation coupled fruit and vegetable cleaning device [P]. Issued on May 9, 2012. CN201120506527.3 <a href="https://patents.google.com/patent/CN202311136U/en" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Patent(CN)]</a>
+  
+* **Dissertation**
+  * Master Thesis: Mr. **XU, Hong**. Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. Dissertation. **LMU&TU MÜNCHEN**, Munich, Germany, 2016. <a href="http://XuHongCN.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Thesis(EN)]</a>
+  * Bachelor Thesis: Mr. **XU, Hong**. Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. Dissertation. **BJTU**. Beijing, China, 2013. <a href="http://XuHongCN.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Thesis(CN)]</a>
 
-<a href="http://ecst.ecsdl.org/content/80/8/395.abstract" target="_blank">http://ecst.ecsdl.org/content/80/8/395.abstract</a>
+* **Reports**
+  * Mr. **XU, Hong**. Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China [R]. Technical Report. **École des Ponts ParisTech**, Paris, France, 2016. <a href="http://XuHongCN.github.io/files/PontYuqiao_Training_Report-Hong Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(EN)]</a>
+  * Mr. **XU, Hong**, Sixin He. Phase transition of quartz and its application in industrial fields [R]. Course Report. **LMU München**, Munich, Germany, 2016.  <a href="http://XuHongCN.github.io/files/LMU-Thermodynamic-Report-Hong_XU-Sixin_HE.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Report(EN)]</a>
+  * Mr. **XU, Hong**. Monitoring, Modeling and Early Warning Program for Ocean Red Tide [R]. Plan Report. **Haihe River Committee**, Tianjin, China, 2016.  <a href="http://XuHongCN.github.io/files/水体赤潮模型报告.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[Plan(CN)]</a>
+  * Mr. **XU, Hong**. Design and Construction of the Test-Stand for Split and Delay Line [R]. Tech. Report. **European XFEL**. Hamburg, Germany, 2015. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(EN)]</a>
+  * Mr. **XU, Hong**, Lijuan Zhang, Minqin Zhang, Jing Huang, Xu Han, Youshuang Wang. Improved Dye-sensitized solar cells Based on the PC Structure of Biomimetic Butterfly Wings [R]. Project Plan. **TECO Foundation**. Beijing, China, 2013. <a href="http://XuHongCN.github.io/files/Improved Dye-sensitized solar cells Based on the PC Structure of Biomimetic Butterfly Wings.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(EN)]</a>
+  * Mr. **XU, Hong**, Lijuan Zhang, Minqin Zhang, Jing Huang, Xu Han. Beijing DS (DESHENG) Solar Cells Technology Co., Ltd [R]. Business Plan. **CHALLENGE CUP**. Beijing, China, 2012. <a href="http://XuHongCN.github.io/files/北京DS（德胜）太阳能电池科技有限公司商业计划书.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report(CN)]</a>
 
-### [2] 新型多孔氧化物球形粉末的雾化反应法制备.真空与低温，2012, 18(3): 134−141.
-Prof. 张辉，**徐泓**，万金秀，颜鲁婷，戴春爱. 北京交通大学理学院
-
-### [3] 超声波-二氧化钛光催化耦合法降解高效氯氰菊酯. 化学研究, 2012, v.23(03): 45-49.
-祁晓月, **徐泓**, 周兴振. 北京交通大学理学院
-
-<a href="http://hxya.chinajournal.net.cn/WKB/WebPublication/paperDigest.aspx?paperID=10f49d02-6d79-49d1-93cf-d1d7a98f9887" target="_blank">http://hxya.chinajournal.net.cn/WKB/WebPublication/paperDigest.aspx?paperID=10f49d02-6d79-49d1-93cf-d1d7a98f9887</a>
-
----
-
-# National Patents:
-
-### [1] Annular gas-liquid interface jigging magnetic separation device
-*Prof. Ming Fu, Hui Zhang, **Hong Xu**, Luting Yan*. Issued Oct 11, 2013. CN201110355807.3
-
-<a href="https://patents.google.com/patent/CN102441489A/en" target="_blank">https://patents.google.com/patent/CN102441489A/en</a>
-
-### [2] Gas-liquid interface jigging magnetic separation controllable annular device capable of continuously operating
-*Prof. Hui Zhang, **Hong Xu**, Mingfu, Luting Yan*. Issued Nov 1, 2013. CN201110355808.8
-
-<a href="https://patents.google.com/patent/CN102441490B/en" target="_blank">https://patents.google.com/patent/CN102441490B/en</a>
-
-
-### [3] Fruits and vegetables clean device coupling with Ultrasonic and Photocatalytic technology
-*Xingzhen Zhou, **Hong Xu**, Prof. Hong Jiang, Xiaoyue QI*. Issued May 9, 2012. CN201120506527.3
-
-<a href="https://patents.google.com/patent/CN202311136U/en" target="_blank">https://patents.google.com/patent/CN202311136U/en</a>
-
----
-
-# Dissertations:
-
-### [1] Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles. 
-Mr. **Hong Xu**. Master Thesis. LMU & TU München. Munich, 2016.
-Supervisor: Prof. Dr. Peter Müller-Buschbaum, TUM
-
-<a href="https://xuhongcn.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" target="_blank">https://xuhongcn.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf</a>
-
-###  [2] Application of Mesoporous SnO2 Materials in Dye-sensitized Solar Cells and Lithium Batteries. 
-Mr. **Hong Xu**. Bachelor Thesis. Beijing Jiaotong University (BJTU). Beijing, 2013.
-Supervisor: Prof. Dr. Hui Zhang, BJTU
-
-<a href="https://xuhongcn.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf" target="_blank">https://xuhongcn.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf</a>
-
----
-
-# Technical Reports:
-
-### [1] Modelling of Cyanobacteria Dynamics for YuQiao Reservoir in Tianjin, China.
-Mr. **Hong Xu**. Training Report. École des Ponts ParisTech. Paris. 2016.
-
-<a href="https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf" target="_blank">https://xuhongcn.github.io/files/PontYuqiao_Training_Report-Hong%20Xu.pdf</a>
-
-### [2] Design and Construction of the Test-Stand for Split and Delay Line. Tech. Report. EUROPEAN XFEL.
-Mr. **Hong Xu**. Internship Report. EUROPEAN XFEL. Hamburg, 2015.
-
-<a href="https://xuhongcn.github.io/files/Internship_Report_XFEL-Hong%20XU.pdf" target="_blank">https://xuhongcn.github.io/files/Internship_Report_XFEL-Hong%20XU.pdf</a>
-
+* **Proposals**
+  * Mr. **XU, Hong**. Revealing the water redistribution dynamics in PEFC gas diffusion layers during load changes. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2018. <a href="Revealing the water redistribution dynamics in PEFC gas diffusion layers during load changes.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Proposal]</a>
+  * Mr. **XU, Hong**. Fundamental understanding of dominating water transport mode in PEFC gas diffusion layers. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2017. <a href="Fundametal understanding of dominating water transport mode in PFEC gas diffusion layers.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Proposal]</a>
+  * Mr. **XU, Hong**. Water feature detectability in subsecond XTM of gas diffusion layer of PEFC. Beamtime Proposal. **Swiss Light Source**, Villigen PSI, Switzerland, 2017. <a href="Water feature detectability in subsecond XTM of gas diffusion layer of PEFC.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Proposal]</a>
