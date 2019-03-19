@@ -22,49 +22,43 @@ redirect_from:
 
 
 * **Swiss Federal Institute of Technology in Zurich (ETHz)**, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup><img src="https://XuHongCN.github.io/images/ETH_logo.png" width="40" align="right" ><br/>
-Ph.D Candidate, X-ray Imaging/Fuel Cell. GPA: 5.0/6.0  
-<a href="http://XuHongCN.github.io/files/PhD_Admission_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[AdmLetter]</a> <a href="http://XuHongCN.github.io/files/ETH_Registration_2019.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RegLetter]</a>  <a href="http://XuHongCN.github.io/files/Research_Plan_PhD_ETHz.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[ResPlan]</a>
+Ph.D Candidate, Energy/X-ray Imaging. GPA: 5.0/6.0  
 
 * **Technical University of Munich (TUM)**, München, Germany. 2014.10 - 2016.10<img src="https://XuHongCN.github.io/images/TUM_LMU_logo.png" width="40" align="right" ><br/>
 M.Sc in Materials Science, by TUM/LMU Munich. GPA: 1.43/1.0  
 M.Sc in Physics (EU-Mobility), by Uni. Rennes I, France. GPA: 15.6/20  
-<a href="http://XuHongCN.github.io/files/Master_Degree_TUM_LMU_Germany_.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[DegreeTUM]</a> <a href="http://XuHongCN.github.io/files/LMU_TUM_Transcript.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[TransTUM]</a> <a href="http://XuHongCN.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[ThesisTUM]</a> | <a href="http://XuHongCN.github.io/files/Master_Degree_Rennes_France.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaFR]', eventValue: 1});" target="_blank">[DegreeUR1]</a> <a href="http://XuHongCN.github.io/files/Rennes_Transcript.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaFR]', eventValue: 1});" target="_blank">[TransUR1]</a> 
 
 * **Beijing Jiaotong University (BJTU)**, Beijing, China. 2009.09 - 2013.06<img src="https://XuHongCN.github.io/images/BJTU_logo.png" width="40" align="right" ><br/>
 B.Sc in Materials Chemistry, Major GPA: 90.3/100  
-<a href="http://XuHongCN.github.io/files/Bachelor_Diploma_CN_EN_Certified.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaEN]', eventValue: 1});" target="_blank">[DiplomaBJTU]</a> <a href="http://XuHongCN.github.io/files/Bachelor_Transcript_BJTU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[TransBJTU]</a> <a href="http://XuHongCN.github.io/files/Bachelor_Thesis_BJTU-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[ThesisBJTU]</a> <a href="http://XuHongCN.github.io/files/College_Entrance_Exam_2009.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[EntryExam]</a>
 
-<!---
-<img src="https://github.com/XuHongCN/XuHongCN.github.io/blob/master/_pages/Uni_logo4.jpg?raw=true" alt="Uni_logo4.jpg">
--->
 
 # <span style="font-variant:small-caps;">Working Experience and Internships</span>
 
 * **Paul Scherrer Institut (PSI)**, Switzerland. 2016.12 - Present <img src="https://XuHongCN.github.io/images/PSI_logo.png" width="40" align="right" ><br/>  
-  * Doctoral Researcher in Fuel Cell Systems & Diagnostics Group, Energy & Environmental Department. <a href="http://XuHongCN.github.io/files/PSI_PhD_Job_Description.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[JobDes]</a>  
+  * Doctoral Researcher in Fuel Cell Systems & Diagnostics Group, Energy & Environmental Department.   
   * Project: In-operando Sub-second Computational Tomographic (CT) Imaging of Polymer Electrolyte Fuel Cells (PEFC).
   * Synchrotron X-ray Tomographic Imaging with High Spatial (2-3 um) and Temporal (0.1~1 s) Resolution at TOMCAT beamline at Swiss Light Source.
 
 * **Toyota Motor Europe (TME)**, Belgium. 2017.05 - 2019.02<img src="https://XuHongCN.github.io/images/Toyota_logo.png" width="40" align="right" ><br/>  
   * Research Collaborator in XTM Imaging.
   
-* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09  <a href="http://XuHongCN.github.io/files/RL_TUM_Ezz_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a><img src="https://XuHongCN.github.io/images/TUM_logo.png" width="40" align="right" ><br/>
-  * Research Assistant in Polymer Physics at Chair of Experimental Physics, TUM. <a href="http://XuHongCN.github.io/files/Master_Work_Grade_TUM_PeterMB.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[LabWork(A+)]</a> <a href="http://XuHongCN.github.io/files/Master_Course_Grade_TUM.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Seminar(A+)]</a>  
-  * Master Thesis: "Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles". <a href="http://XuHongCN.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Thesis(A+)]</a> <a href="http://XuHongCN.github.io/files/Confirmation_Master_Thesis_TUM.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Confirmation]</a>
+* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09  
+  * Research Assistant in Polymer Physics at Chair of Experimental Physics, TUM.   
+  * Master Thesis: "Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles". 
   * Characterized the morphology, structure and magnetic properties of structuremetal polymer composites using AFM, TEM, XPS, GISAXS, SAXS and SQUID techniques.
   
-* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 <a href="http://XuHongCN.github.io/files/Certificate_Infineon_2016.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/_data/', eventAction: 'click', eventLabel: '[DiplomaCN]', eventValue: 1});" target="_blank">[RefLetter]</a><img src="https://XuHongCN.github.io/images/Infineon_logo.png" width="40" align="right" ><br/> 
+* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 
   * Failure Analysis of thermal and electrical stressed Infineon chips with temperature from -40 to 125 Celsius degrees and time from 0 to 10,000 hours.
   * Statistically analysed the electronic behaviours of stressed Infineon chips for optimization, then summarized and reported them to supervisor.
 
-* **École des Ponts ParisTech**, France. 2015.08 - 2015.09 <a href="http://XuHongCN.github.io/files/Invitation_Letter_Leesu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[InvitLetter]</a><img src="https://XuHongCN.github.io/images/ENPC_logo.png" width="42" align="right" ><br/>  
-  * Trained on the cyanobacteria modelling system developed by Lab of Water, Environment and Urban Systems (LEESU), ENPC and Tianjin Haihe River Conservancy Commission (HWCC) and aimed to apply it into controlling system of lakes and rivers in China.  <a href="http://XuHongCN.github.io/files/PontYuqiao_Training_Report-Hong Xu.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a>    
+* **École des Ponts ParisTech**, France. 2015.08 - 2015.09   
+  * Trained on the cyanobacteria modelling system developed by Lab of Water, Environment and Urban Systems (LEESU), ENPC and Tianjin Haihe River Conservancy Commission (HWCC) and aimed to apply it into controlling system of lakes and rivers in China.  
   * Calibrated parameters in the specific models by using local meteorological data and predicted the cyanobacterial blooms for Yuqiao reservoir in Tianjin, China.
 Skills.
 
-* **European XFEL GmbH**, Germany. 2015.05 - 2015.07  <a href="http://XuHongCN.github.io/files/RL_European_XFEL_Anders_2015.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[RefLetter]</a><img src="https://XuHongCN.github.io/images/XFEL_logo.png" width="40" align="right" ><br/>  
-  * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. <a href="http://XuHongCN.github.io/files/Internship_Report_XFEL-Hong XU.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[Report]</a>  
-  * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python. <a href="http://XuHongCN.github.io/files/The Split and Delay Line for MID.pdf" style="color:rgb(65, 105, 225);" onClick="ga('send', 'event', { eventCategory: 'https://xuhongcn.github.io/files/', eventAction: 'click', eventLabel: '[Degree]', eventValue: 1});" target="_blank">[SDL Slides]</a>  
+* **European XFEL GmbH**, Germany. 2015.05 - 2015.07  
+  * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. 
+  * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python.   
 
 # <span style="font-variant:small-caps;">Patents & Publications</span>
 
