@@ -42,21 +42,21 @@ B.Sc in Materials Chemistry, Major GPA: 90.3/100
 * **Toyota Motor Europe (TME)**, Belgium. 2017.05 - 2019.02<img src="https://XuHongCN.github.io/images/Toyota_logo.png" width="40" align="right" ><br/>  
   * Research Collaborator in XTM Imaging.
   
-* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09  
+* **Technical University of Munich (TUM)**, Germany. 2015.10 - 2016.09<img src="https://XuHongCN.github.io/images/TUM_logo.png" width="40" align="right" ><br/>  
   * Research Assistant in Polymer Physics at Chair of Experimental Physics, TUM.   
   * Master Thesis: "Structure and Properties of Thermoresponsive Diblock Copolymers Embedded with Metal Oxide Nanoparticles". 
   * Characterized the morphology, structure and magnetic properties of structuremetal polymer composites using AFM, TEM, XPS, GISAXS, SAXS and SQUID techniques.
   
-* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 
+* **Infineon Technologies AG**, Germany. 2015.12 - 2016.06 <img src="https://XuHongCN.github.io/images/Infineon_logo.png" width="40" align="right" ><br/> 
   * Failure Analysis of thermal and electrical stressed Infineon chips with temperature from -40 to 125 Celsius degrees and time from 0 to 10,000 hours.
   * Statistically analysed the electronic behaviours of stressed Infineon chips for optimization, then summarized and reported them to supervisor.
 
-* **École des Ponts ParisTech**, France. 2015.08 - 2015.09   
+* **École des Ponts ParisTech**, France. 2015.08 - 2015.09<img src="https://XuHongCN.github.io/images/ENPC_logo.png" width="42" align="right" ><br/>    
   * Trained on the cyanobacteria modelling system developed by Lab of Water, Environment and Urban Systems (LEESU), ENPC and Tianjin Haihe River Conservancy Commission (HWCC) and aimed to apply it into controlling system of lakes and rivers in China.  
   * Calibrated parameters in the specific models by using local meteorological data and predicted the cyanobacterial blooms for Yuqiao reservoir in Tianjin, China.
 Skills.
 
-* **European XFEL GmbH**, Germany. 2015.05 - 2015.07  
+* **European XFEL GmbH**, Germany. 2015.05 - 2015.07<img src="https://XuHongCN.github.io/images/XFEL_logo.png" width="40" align="right" ><br/>  
   * Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European X-ray FEL facility with technical requirements consideration under ultra-high vacuum. 
   * Assembled the test-stand for SDL and tested its vacuum degree, furthermore fabricated Lemo cables and tested the parasitic motion of linear translation stage using karabo GUI based on python.   
 
