@@ -19,7 +19,12 @@ redirect_from:
 
 {% include base_path %}
 
-<style type="text/css">a {text-decoration: none}</style>
+<style type="text/css">
+a:link { text-decoration: none;color: blue}
+a:active { text-decoration:blink}
+a:hover { text-decoration:underline;color: red} 
+a:visited { text-decoration: none;color: green}
+</style>
 
 ## Biography
 
