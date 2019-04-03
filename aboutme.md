@@ -4,13 +4,13 @@ title: "Hej! Find me here !"
 
 ### Address
 ---
-<p>Paul Scherrer Institut (PSI)</p>
+** Paul Scherrer Institut (PSI)
 
-<p>OVGA/005</p>
+** OVGA/005
 
-<p>5232 Villigen PSI</p>
+** 5232 Villigen PSI
 
-<p>Switzerland</p>
+** Switzerland
 
 ### Phone
 ---
