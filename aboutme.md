@@ -16,12 +16,3 @@ Switzerland
 ### E-mail
 ---
 hong (dot) xu (at) live (dot) cn 
-
-### Wechat
----
-tshine(one nine nine three) 
-
-### Quote
----
-Je pense, donc je suis. —— René Descartes (1596 - 1650)
-
