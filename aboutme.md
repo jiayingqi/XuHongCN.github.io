@@ -2,17 +2,14 @@
 title: "Hej! Find me here !"
 ---
 
-### Address
----
+### Address  
 Paul Scherrer Institut (PSI)  
 OVGA/005  
 5232 Villigen PSI  
 Switzerland  
 
-### Phone
----
+### Phone  
 +41 (0)7 64 64 44 26
 
-### E-mail
----
+### E-mail  
 hong (dot) xu (at) live (dot) cn 
