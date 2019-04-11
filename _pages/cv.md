@@ -22,7 +22,7 @@ redirect_from:
 
 
 * **Swiss Federal Institute of Technology in Zurich (ETHz)**, Zürich, Switzerland. 2016.12 - 2020.06<sup>(Est.)</sup><img src="https://XuHongCN.github.io/images/ETH_logo.png" width="40" align="right" ><br/>
-Ph.D Candidate, Energy/X-ray Imaging. GPA: 5.0/6.0  
+Ph.D Candidate, Renewable Energy/Computational Imaging. Fully funded by SNF
 
 * **Technical University of Munich (TUM)**, München, Germany. 2014.10 - 2016.10<img src="https://XuHongCN.github.io/images/TUM_LMU_logo.png" width="40" align="right" ><br/>
 M.Sc in Materials Science, by TUM/LMU Munich. GPA: 1.43/1.0  
