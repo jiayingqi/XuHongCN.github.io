@@ -9,8 +9,8 @@ main:
   - title: "講/TALKS"
     url: /talks/    
     
-  - title: "影/LA GALERIE"
-    url: /galerie/    
+  - title: "影/X-GRAPHY"
+    url: https://xgraphy.github.io/
   
   - title: "詩/POÈME"
     url: /poeme/    
@@ -28,3 +28,5 @@ main:
 #    url: /teaching/       
 #  - title: "Blog Posts"
 #    url: /year-archive/
+#  - title: "影/LA GALERIE"
+#    url: /galerie/    
