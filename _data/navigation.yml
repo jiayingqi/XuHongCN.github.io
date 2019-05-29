@@ -21,12 +21,14 @@ main:
   - title: "中/CHINESE"
     url: https://xuhongcn.coding.me/
     
-  - title: "摄/X-GRAPHY"
-    url: https://xgraphy.github.io/
+#  - title: "摄/X-GRAPHY"
+#    url: https://xgraphy.github.io/
     
 #    - title: "教/TEACHING"
 #    url: /teaching/       
+
 #  - title: "Blog Posts"
 #    url: /year-archive/
+
 #  - title: "影/LA GALERIE"
 #    url: /galerie/    
